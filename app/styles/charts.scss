@@ -1,0 +1,83 @@
+.listener-activity-chart-container {
+    margin: 20px 0 20px 20px;
+}
+
+.listener-activity-chart-container-long {
+    margin: 20px 5px 20px 15px;
+
+    .listener-activity-chart {
+        overflow-y: scroll;
+        height: 65vh;
+        border: 1px solid black;
+        background-color: $backgroundColor;
+
+    }
+}
+
+.listener-activity-chart-header {
+    font-size: 36px;
+    text-align: center;
+    font-family: "Helvetica", sans-serif;
+    margin: 0 0 5px 0;
+}
+
+.listener-activity-chart {
+    overflow-y: scroll;
+    height: 36vh;
+    border: 1px solid black;
+    background-color: $backgroundColor;
+}
+
+.listener-activity-chart-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px 0 10px;
+    border-bottom: 1px dotted black;
+}
+
+.listener-activity-chart-name {
+    font-family: "Helvetica", sans-serif;
+    font-size: 14px;
+}
+
+.listener-activity-chart-active {
+    color: #0f0;
+}
+
+.listener-activity-chart-idle {
+    color: #ffff1a;
+}
+
+.listener-activity-chart-inactive {
+    color: #f00;
+}
+
+.listener-activity-alert-button {
+    cursor: pointer;
+}
+
+g.listener-activity-alert-button-active .mdi-icon {
+    cursor: pointer;
+    animation: shake 1s cubic-bezier(.2,.2,.2,.2) both;
+    transform: translate3d(0, 0, 0);
+    backface-visibility: hidden;
+    animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+  10%, 90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+
+  20%, 80% {
+    transform: translate3d(1px, 0, 0);
+  }
+
+  30%, 50%, 70% {
+    transform: translate3d(-3px, 0, 0);
+  }
+
+  40%, 60% {
+    transform: translate3d(3px, 0, 0);
+  }
+}

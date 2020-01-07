@@ -1,0 +1,150 @@
+{{!-- {{#unless isLoaded}} --}}
+  <div class="container">
+      <div class="container-header {{if showStudentWarning "student-warning-flash"}}" {{action "flashStudentWarning"}}>
+        <h1 class="header-course">
+          {{#unless showStudentWarning}}
+            Introduction to Game Design
+          {{else}}
+            Please pay attention.
+          {{/unless}}
+        </h1>
+
+        <div class="header-menu-dropdown" {{action "toggleMenu"}}>
+          {{#if isInstructor}}
+            <img src="images/alanna-rodriguez.png" class="header-picture">
+          {{else}}
+            <img src="images/frank-tan.png" class="header-picture">
+          {{/if}}
+          {{mdi-icon "chevron-down" classNames="header-menu-chevron"}}
+
+          <div class="header-menu">
+            <ul class="header-menu-options">
+              <li class="header-menu-item">
+                {{mdi-icon "settings"}}
+                Preferences
+              </li>
+
+              <li class="header-menu-item">
+                {{mdi-icon "help"}}
+                Help
+              </li>
+
+              <li class="header-menu-item">
+                {{mdi-icon "logout-variant"}}
+                Sign out
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="menu-bar">
+        {{#if showStudentWarning}}
+          <span class="student-warning-flash-empathy-msg">Your classmates are relying on your feedback!</span>
+        {{/if}}
+
+        {{#if isInstructor}}
+          <div class="menu-bar-item q-and-a-button" {{action "toggleQA"}}>
+            <span class="menu-bar-item-text">
+              Q &amp; A
+            </span>
+          </div>
+
+          <div class="menu-bar-item notebook-button" {{action "toggleNotebook"}}>
+            <span class="menu-bar-item-text">
+              Notebook
+            </span>
+          </div>
+
+          <div class="menu-bar-item presentations-button" {{action "togglePresentations"}}>
+            <span class="menu-bar-item-text">
+              Presentations
+            </span>
+          </div>
+
+          <div class="menu-bar-item student-activity-button" {{action "toggleStudentActivity"}}>
+            <span class="menu-bar-item-text">
+              Student Activity
+            </span>
+          </div>
+        {{/if}}
+      </div>
+
+      <div class="container-body {{if isInstructor "even-columns-3" "even-columns-2"}}">
+        {{#if displayingNoPanes}}
+          <div class="no-pane-display">
+            <span class="no-pane-message">
+              {{noPaneMessage}}
+            </span>
+
+            <button class="no-pane-button" {{action "toggleAllPanes"}}>
+              Show All Panes
+            </button>
+          </div>
+        {{/if}}
+
+        {{#if showQA}}
+          {{q-and-a
+            isInstructor = isInstructor
+            questionsAndResponses = questionsAndResponses
+            qaTextAreaFieldWidth = qaTextAreaFieldWidth
+            emojiCode = emojiCode
+            toggleQA = (action "toggleQA")}}
+        {{/if}}
+
+        {{#if showNotebook}}
+          {{project-feedback
+            isInstructor = isInstructor
+            feedbackTextAreaFieldWidth = feedbackTextAreaFieldWidth}}
+        {{/if}}
+
+        {{#if isInstructor}}
+          {{#if showRightColumn}}
+            {{#unless onlyRightColumn}}
+              <div class="even-column">
+                {{#if showPresentationsDefault}}
+                  {{presentations-container
+                    presentation = presentation}}
+                {{else if showPresentationsNoChart}}
+                  {{presentations-container
+                    isLong = true
+                    presentation = presentation}}
+                {{/if}}
+
+                {{#if showStudentActivityDefault}}
+                  {{listener-activity-chart-container
+                    mockedListenerActivity = mockedListenerActivity
+                    alertStudent = (action "alertStudent")}}
+                {{else if showChartNoPresentations}}
+                  {{listener-activity-chart-container
+                    isLong = true
+                    mockedListenerActivity = mockedListenerActivity
+                    alertStudent = (action "alertStudent")}}
+                {{/if}}
+              </div>
+            {{else}}
+              <div class="even-column">
+                {{#if showPresentations}}
+                  {{presentations-container
+                    isLong = true
+                    presentation = presentation}}
+                {{/if}}
+              </div>
+
+              <div class="even-column">
+                {{#if showStudentActivity}}
+                  {{listener-activity-chart-container
+                    mockedListenerActivity = mockedListenerActivity
+                    isLong = true
+                    alertStudent = (action "alertStudent")}}
+                {{/if}}
+              </div>
+            {{/unless}}
+          {{/if}}
+        {{/if}}
+      </div>
+  </div>
+{{!-- {{else}}
+  Loading...
+{{/unless}} --}}
+{{!-- https://github.com/kaermorchen/ember-mdi#getting-started --}}

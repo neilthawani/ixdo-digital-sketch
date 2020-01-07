@@ -42,10 +42,16 @@
     "ember-source": "~3.4.0",
     "ember-welcome-page": "^3.2.0",
     "eslint-plugin-ember": "^5.2.0",
+    "liquid-fire": "^0.30.0",
     "loader.js": "^4.7.0",
     "qunit-dom": "^0.7.1"
   },
   "engines": {
     "node": "6.* || 8.* || >= 10.*"
+  },
+  "dependencies": {
+    "ember-cli-sass": "^10.0.1",
+    "ember-mdi": "^0.6.0",
+    "ember-truth-helpers": "^2.1.0"
   }
 }

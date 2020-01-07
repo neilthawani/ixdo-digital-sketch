@@ -1,57 +1,21 @@
-# digital-sketch
+# Introduction
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+During this project, I took upon the role of a User Experience (UX) Designer to create a digital dashboard for a university Introduction to Game Design course. In this course, students present projects to a group of their peers (called listeners) and an instructor.
 
-## Prerequisites
+I was given a database with data to feed into the digital dashboard and user personas for three individuals:
 
-You will need the following things properly installed on your computer.
+- Joanna Blaine: a student presenter,
+- Frank Tan: a student listener, and
+- Professor Alanna Rodriguez: the course instructor.
 
-* [Git](https://git-scm.com/)
-* [Node.js](https://nodejs.org/) (with npm)
-* [Ember CLI](https://ember-cli.com/)
-* [Google Chrome](https://google.com/chrome/)
+I applied principles of UX Design to create a dashboard that served the needs of student listeners and the course instructor while remaining functional and aesthetically pleasing.
 
-## Installation
+Here is a demo for the course instructor view:
 
-* `git clone <repository-url>` this repository
-* `cd digital-sketch`
-* `npm install`
+![instructor](instructor.gif)
 
-## Running / Development
+And here is a demo for the student listener view:
 
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-* Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
+![listener](listener.gif)
 
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
-
-### Running Tests
-
-* `ember test`
-* `ember test --server`
-
-### Linting
-
-* `npm run lint:hbs`
-* `npm run lint:js`
-* `npm run lint:js -- --fix`
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
-
-## Further Reading / Useful Links
-
-* [ember.js](https://emberjs.com/)
-* [ember-cli](https://ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+You can read more about my design and development process in the [Process Book](process-book.pdf).

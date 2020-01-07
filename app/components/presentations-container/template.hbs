@@ -1,0 +1,18 @@
+<h3 class="heading">Presentations</h3>
+
+<div class="presentations">
+  {{#each presentation as |item|}}
+    <div class="presentation">
+      <div class="presentation-text">
+        <a href={{item.url}} class="presentation-name" target="_blank">{{item.name}}</a>
+        <br>
+        <span class="presentation-date">{{item.date}}</span>
+      </div>
+      <div class="presentation-icons">
+        <a href={{item.url}} class="presentation-icon presentation-icon-open" title="Open Project" target="_blank">{{mdi-icon "pencil-outline"}}</a>
+
+        {{!-- <a href={{item.url}} class="presentation-icon presentation-icon-view" title="View Project" target="_blank">{{mdi-icon "presentation"}}</a> --}}
+      </div>
+    </div>
+  {{/each}}
+</div>

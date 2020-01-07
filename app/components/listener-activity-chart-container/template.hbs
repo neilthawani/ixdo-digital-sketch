@@ -1,0 +1,20 @@
+<h3 class="listener-activity-chart-header">Student Activity</h3>
+
+<div class="listener-activity-chart">
+  {{#each mockedListenerActivity as |item index|}}
+  <div class="listener-activity-chart-item">
+    <span class="listener-activity-chart-name">
+      {{item.username}}
+    </span>
+
+    <span>
+      {{#if (eq item.class "listener-activity-chart-inactive")}}
+        {{listener-activity-alert-button
+            index = index
+            alertStudent = alertStudent}}
+      {{/if}}
+      {{mdi-icon "checkbox-blank-circle" classNames=item.class}}
+    </span>
+  </div>
+  {{/each}}
+</div>

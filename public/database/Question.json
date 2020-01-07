@@ -1,0 +1,1444 @@
+[
+ {
+   "id": 118,
+   "presentation": 44,
+   "student-presenter-id": 613,
+   "text": "What is most difficult about navigating without GPS for you?",
+   "date": "3/20/18"
+ },
+ {
+   "id": 119,
+   "presentation": 44,
+   "student-presenter-id": 613,
+   "text": "What is most fun/engaging about this game, and why? What is most frustrating about this game, and why?",
+   "date": "3/20/18"
+ },
+ {
+   "id": 120,
+   "presentation": 44,
+   "student-presenter-id": 607,
+   "text": "What is most frustrating about this game?",
+   "date": "3/20/18"
+ },
+ {
+   "id": 121,
+   "presentation": 44,
+   "student-presenter-id": 617,
+   "text": "What do you think about the collaborative aspect of this navigation-based game?",
+   "date": "3/20/18"
+ },
+ {
+   "id": 122,
+   "presentation": 48,
+   "student-presenter-id": 619,
+   "text": "How could we make our educational objectives more specific or clear?",
+   "date": "3/20/18"
+ },
+ {
+   "id": 123,
+   "presentation": 48,
+   "student-presenter-id": 619,
+   "text": "What other tasks might novices struggle with in our domain?",
+   "date": "3/20/18"
+ },
+ {
+   "id": 124,
+   "presentation": 48,
+   "student-presenter-id": 619,
+   "text": "What MDA considerations might aid our development? (Feel free to comment on a single game idea)",
+   "date": "3/20/18"
+ },
+ {
+   "id": 125,
+   "presentation": 48,
+   "student-presenter-id": 619,
+   "text": "What do you think losing in one of our games could look like?",
+   "date": "3/20/18"
+ },
+ {
+   "id": 126,
+   "presentation": 48,
+   "student-presenter-id": 619,
+   "text": "Based on our learning objectives, we feel that subjectivity is appropriate for evaluation. Do you agree? If so, to what extent? If not, why not?",
+   "date": "3/20/18"
+ },
+ {
+   "id": 127,
+   "presentation": 45,
+   "student-presenter-id": 624,
+   "text": "What form of tutorial or guide should we provide to beginners who are new to the stock market?",
+   "date": "3/20/18"
+ },
+ {
+   "id": 128,
+   "presentation": 45,
+   "student-presenter-id": 629,
+   "text": "How can we effectively incorporate a ledger, that keeps track of each player's total assets?",
+   "date": "3/20/18"
+ },
+ {
+   "id": 129,
+   "presentation": 45,
+   "student-presenter-id": 624,
+   "text": "How do we make this game less intimidating to people who are unfamiliar with financial products?",
+   "date": "3/20/18"
+ },
+ {
+   "id": 130,
+   "presentation": 46,
+   "student-presenter-id": 631,
+   "text": "How could we make our educational objectives more specific or clear?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 131,
+   "presentation": 46,
+   "student-presenter-id": 631,
+   "text": "What other tasks might novices struggle with in our domain?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 132,
+   "presentation": 41,
+   "student-presenter-id": 633,
+   "text": "How could we make our educational objectives more specific or clear?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 133,
+   "presentation": 41,
+   "student-presenter-id": 633,
+   "text": "What other tasks might novices struggle with in our domain?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 134,
+   "presentation": 48,
+   "student-presenter-id": 627,
+   "text": "Which game do you think has the most potential and why?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 135,
+   "presentation": 48,
+   "student-presenter-id": 627,
+   "text": "For the game you stated above, what MDA considerations might aid us in development?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 136,
+   "presentation": 48,
+   "student-presenter-id": 627,
+   "text": "For a game in this context, how do you think losing could be handled positively?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 137,
+   "presentation": 41,
+   "student-presenter-id": 634,
+   "text": "What do you think a reachable educational goal in either of our design spaces is?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 138,
+   "presentation": 46,
+   "student-presenter-id": 631,
+   "text": "Is this idea engaging enough to our target audience?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 139,
+   "presentation": 41,
+   "student-presenter-id": 634,
+   "text": "What are some potential goals and pitfalls of our design spaces?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 140,
+   "presentation": 41,
+   "student-presenter-id": 634,
+   "text": "Which computer science topic is more challenging to teach in a board game and why?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 141,
+   "presentation": 41,
+   "student-presenter-id": 609,
+   "text": "How can we provide immediate feedback about correctness?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 142,
+   "presentation": 46,
+   "student-presenter-id": 621,
+   "text": "Does this idea have the potential to be developed for different skill levels?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 143,
+   "presentation": 41,
+   "student-presenter-id": 609,
+   "text": "What do you think are pros and cons about our game ideas?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 144,
+   "presentation": 51,
+   "student-presenter-id": 628,
+   "text": "How could we make our educational objectives more specific or clear?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 145,
+   "presentation": 51,
+   "student-presenter-id": 628,
+   "text": "What other tasks might novices struggle with in our domain?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 146,
+   "presentation": 51,
+   "student-presenter-id": 628,
+   "text": "Any suggestion for interesting scenarios?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 147,
+   "presentation": 53,
+   "student-presenter-id": 641,
+   "text": "How could we make our educational objectives more specific or clear?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 148,
+   "presentation": 53,
+   "student-presenter-id": 641,
+   "text": "What other tasks might novices struggle with in our domain?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 149,
+   "presentation": 53,
+   "student-presenter-id": 641,
+   "text": "Should we rely on a Subject Matter Expert? If yes, who? If no, why not?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 150,
+   "presentation": 53,
+   "student-presenter-id": 641,
+   "text": "What other tasks would our game be positioned well to teach?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 151,
+   "presentation": 53,
+   "student-presenter-id": 641,
+   "text": "How well does our game idea adhere to our educational objectives?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 152,
+   "presentation": 51,
+   "student-presenter-id": 628,
+   "text": "Do we need to make the evaluating criteria more objective? Why?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 153,
+   "presentation": 51,
+   "student-presenter-id": 628,
+   "text": "What other interesting X-dimension card could be?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 154,
+   "presentation": 54,
+   "student-presenter-id": 643,
+   "text": "how can we make this game engaging for longer periods of time than the booth model?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 155,
+   "presentation": 54,
+   "student-presenter-id": 643,
+   "text": "How can we make this game more intuitive?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 156,
+   "presentation": 54,
+   "student-presenter-id": 644,
+   "text": "Given the current planned gameplay loop, how could we implement a reasonable fail state?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 157,
+   "presentation": 50,
+   "student-presenter-id": 635,
+   "text": "As a student in high school or college, where specifically did you have difficulty while learning physics circuitry and what did you find easy?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 158,
+   "presentation": 50,
+   "student-presenter-id": 637,
+   "text": "How well-aligned do you think our Learning Goals, Instructional Principles, and MDA are, and how would you improve them?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 159,
+   "presentation": 47,
+   "student-presenter-id": 625,
+   "text": "How might we add to the tasks in order to keep the game re-playable and engaging?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 160,
+   "presentation": 47,
+   "student-presenter-id": 625,
+   "text": "How might we teach more tactile basic skills through a digital space (e.g. knife skills)?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 161,
+   "presentation": 47,
+   "student-presenter-id": 639,
+   "text": "What might be some more ways that we can effectively assess whether the players have memorized the recipes?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 162,
+   "presentation": 47,
+   "student-presenter-id": 625,
+   "text": "How could we make our educational objectives more specific or clear?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 163,
+   "presentation": 47,
+   "student-presenter-id": 625,
+   "text": "What other tasks might novices struggle with in our domain?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 164,
+   "presentation": 50,
+   "student-presenter-id": 636,
+   "text": "What are your initial thoughts on the fantasy aspect of our game?(prompt: Too little, Too much, ��_)",
+   "date": "3/21/18"
+ },
+ {
+   "id": 165,
+   "presentation": 54,
+   "student-presenter-id": 644,
+   "text": "Given the current planned gameplay loop, how could we implement a reasonable fail state?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 166,
+   "presentation": 45,
+   "student-presenter-id": 622,
+   "text": "(INSTRUCTOR) How could we make our educational objectives more specific or clear?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 167,
+   "presentation": 45,
+   "student-presenter-id": 622,
+   "text": "(INSTRUCTOR) What other tasks might novices struggle with in our domain?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 168,
+   "presentation": 54,
+   "student-presenter-id": 644,
+   "text": "Instructor- How could we make our educational objectives more specific or clear?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 169,
+   "presentation": 54,
+   "student-presenter-id": 644,
+   "text": "Instructor- What other tasks might novices struggle with in our domain?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 170,
+   "presentation": 50,
+   "student-presenter-id": 635,
+   "text": "How could we make our educational objectives more specific or clear?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 171,
+   "presentation": 50,
+   "student-presenter-id": 635,
+   "text": "What other tasks might novices struggle with in our domain?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 172,
+   "presentation": 44,
+   "student-presenter-id": 617,
+   "text": "How could we make our educational objectives more specific or clear?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 173,
+   "presentation": 44,
+   "student-presenter-id": 617,
+   "text": "What other tasks might novices struggle with in our domain?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 174,
+   "presentation": 46,
+   "student-presenter-id": 631,
+   "text": "What would be most appealing/least appealing aspects of this game?",
+   "date": "3/21/18"
+ },
+ {
+   "id": 175,
+   "presentation": 45,
+   "student-presenter-id": 629,
+   "text": "How can we help the players familiarize with the game rules and start playing as soon as possible?",
+   "date": "4/3/18"
+ },
+ {
+   "id": 176,
+   "presentation": 55,
+   "student-presenter-id": 629,
+   "text": "How can we help the players familiarize with the game rules and start playing as soon as possible?",
+   "date": "4/3/18"
+ },
+ {
+   "id": 177,
+   "presentation": 55,
+   "student-presenter-id": 629,
+   "text": "What components of our educational goals are missing or under emphasized by our current design?",
+   "date": "4/3/18"
+ },
+ {
+   "id": 178,
+   "presentation": 55,
+   "student-presenter-id": 629,
+   "text": "What learning science principles should we be thinking about going forward?",
+   "date": "4/3/18"
+ },
+ {
+   "id": 179,
+   "presentation": 56,
+   "student-presenter-id": 609,
+   "text": "What components of our educational goals are missing or under emphasized by our current design?",
+   "date": "4/3/18"
+ },
+ {
+   "id": 180,
+   "presentation": 56,
+   "student-presenter-id": 609,
+   "text": "What learning science principles should we be thinking about going forward?",
+   "date": "4/3/18"
+ },
+ {
+   "id": 181,
+   "presentation": 56,
+   "student-presenter-id": 609,
+   "text": "Would our educational goals be more effectively reached with a multi-player (collaborative or competitive) or a single-player game and why?",
+   "date": "4/3/18"
+ },
+ {
+   "id": 182,
+   "presentation": 56,
+   "student-presenter-id": 609,
+   "text": "How could we incorporate teaching base conversion (from 2 to 10 and back) within our game as an additional learning objective, or is it more useful to focus on teaching bitwise operators, and why?",
+   "date": "4/3/18"
+ },
+ {
+   "id": 183,
+   "presentation": 56,
+   "student-presenter-id": 609,
+   "text": "How could we improve our game ideas to make them more fun and engaging?",
+   "date": "4/3/18"
+ },
+ {
+   "id": 184,
+   "presentation": 57,
+   "student-presenter-id": 618,
+   "text": "What components of our educational goals are missing or under emphasized by our current design?",
+   "date": "4/3/18"
+ },
+ {
+   "id": 185,
+   "presentation": 57,
+   "student-presenter-id": 618,
+   "text": "What learning science principles should we be thinking about going forward?",
+   "date": "4/3/18"
+ },
+ {
+   "id": 186,
+   "presentation": 57,
+   "student-presenter-id": 618,
+   "text": "We're concerned about how the three types of cards (Student, Situation, Strategy) might interplay successfully. Do you know of any games we can look at, or can you offer any advice?",
+   "date": "4/3/18"
+ },
+ {
+   "id": 187,
+   "presentation": 57,
+   "student-presenter-id": 618,
+   "text": "How might a fantasy element contribute to/detract from our learning objectives? Any suggestions on fantasy themes?",
+   "date": "4/3/18"
+ },
+ {
+   "id": 188,
+   "presentation": 57,
+   "student-presenter-id": 618,
+   "text": "Our game needs a name!! Any clever ones you'd like to share?",
+   "date": "4/3/18"
+ },
+ {
+   "id": 189,
+   "presentation": 58,
+   "student-presenter-id": 625,
+   "text": "What components of our educational goals are missing or under emphasized by our current design?",
+   "date": "4/3/18"
+ },
+ {
+   "id": 190,
+   "presentation": 58,
+   "student-presenter-id": 625,
+   "text": "What learning science principles should we be thinking about going forward?",
+   "date": "4/3/18"
+ },
+ {
+   "id": 191,
+   "presentation": 58,
+   "student-presenter-id": 625,
+   "text": "How can we vary the levels in order for a player to \"level up\"/ \"chef up\"?",
+   "date": "4/3/18"
+ },
+ {
+   "id": 192,
+   "presentation": 58,
+   "student-presenter-id": 625,
+   "text": "What is the hardest part of cooking pasta for you?",
+   "date": "4/3/18"
+ },
+ {
+   "id": 193,
+   "presentation": 59,
+   "student-presenter-id": 607,
+   "text": "What components of our educational goals are missing or under emphasized by our current design?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 194,
+   "presentation": 59,
+   "student-presenter-id": 607,
+   "text": "What learning science principles should we be thinking about going forward?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 195,
+   "presentation": 59,
+   "student-presenter-id": 607,
+   "text": "How can our game give instruction for navigation skills and not just give opportunities for practice?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 196,
+   "presentation": 59,
+   "student-presenter-id": 607,
+   "text": "Do you have other ideas for how we can incorporate feedback in a physical-digital hybrid game?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 197,
+   "presentation": 59,
+   "student-presenter-id": 607,
+   "text": "Which do you think would be more fun: navigating in modern real-life locations around the world, a historical place, or a fantasy world? Why?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 198,
+   "presentation": 56,
+   "student-presenter-id": 609,
+   "text": "What are some ways we could abstract the idea of bit manipulation to make the game more engaging in the long-term?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 199,
+   "presentation": 60,
+   "student-presenter-id": 631,
+   "text": "What components of our educational goals are missing or under emphasized by our current design?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 200,
+   "presentation": 60,
+   "student-presenter-id": 631,
+   "text": "What learning science principles should we be thinking about going forward?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 201,
+   "presentation": 60,
+   "student-presenter-id": 631,
+   "text": "How can we scale this game to be engaging to different skill levels?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 202,
+   "presentation": 60,
+   "student-presenter-id": 632,
+   "text": "How can we include more ways to express rhythms?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 203,
+   "presentation": 58,
+   "student-presenter-id": 625,
+   "text": "What is something about cooking pasta that you would like to learn!",
+   "date": "4/4/18"
+ },
+ {
+   "id": 204,
+   "presentation": 61,
+   "student-presenter-id": 616,
+   "text": "{��nstructor}-- What components of our educational goals are missing or under emphasized by our current design?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 205,
+   "presentation": 61,
+   "student-presenter-id": 616,
+   "text": "{��nstructor}--What learning science principles should we be thinking about going forward?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 206,
+   "presentation": 61,
+   "student-presenter-id": 616,
+   "text": "Should we move forward and develop a tutorial for the game, or let a playthrough of the game run first?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 207,
+   "presentation": 61,
+   "student-presenter-id": 616,
+   "text": "Should we include the stories behind the constellation after a player forms it?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 208,
+   "presentation": 62,
+   "student-presenter-id": 635,
+   "text": "What components of our educational goals are missing or under emphasized by our current design?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 209,
+   "presentation": 62,
+   "student-presenter-id": 635,
+   "text": "What learning science principles should we be thinking about going forward?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 210,
+   "presentation": 65,
+   "student-presenter-id": 641,
+   "text": "What are your main motivations for going out to vote on election day?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 211,
+   "presentation": 66,
+   "student-presenter-id": 628,
+   "text": "What components of our educational goals are missing or under emphasized by our current design?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 212,
+   "presentation": 66,
+   "student-presenter-id": 628,
+   "text": "What learning science principles should we be thinking about going forward?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 213,
+   "presentation": 65,
+   "student-presenter-id": 641,
+   "text": "What prevents you from voting?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 214,
+   "presentation": 65,
+   "student-presenter-id": 641,
+   "text": "What��s the biggest flaw that you currently see in the voting system?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 215,
+   "presentation": 62,
+   "student-presenter-id": 635,
+   "text": "How would you incorporate instant feedback into any physical board game in this domain (not necessarily just the ideas we listed)?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 216,
+   "presentation": 65,
+   "student-presenter-id": 641,
+   "text": "What components of our educational goals are missing or under emphasized by our current design?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 217,
+   "presentation": 65,
+   "student-presenter-id": 641,
+   "text": "What learning science principles should we be thinking about going forward?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 218,
+   "presentation": 62,
+   "student-presenter-id": 637,
+   "text": "How do you think this game may facilitate or hinder transfer learning to the classroom?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 219,
+   "presentation": 62,
+   "student-presenter-id": 637,
+   "text": "How do you think we need to narrow our goals down? By reducing topics, introducing only simple to medium difficulty questions, segmenting into different board games, etc.?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 220,
+   "presentation": 67,
+   "student-presenter-id": 622,
+   "text": "How can we help the players familiarize with the game rules and start playing as soon as possible?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 221,
+   "presentation": 67,
+   "student-presenter-id": 622,
+   "text": "What components of our educational goals are missing or under emphasized by our current design?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 222,
+   "presentation": 67,
+   "student-presenter-id": 622,
+   "text": "What learning science principles should we be thinking about going forward?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 223,
+   "presentation": 61,
+   "student-presenter-id": 644,
+   "text": "How could we implement player movement? (ex: acceleration vs instant start/stop)",
+   "date": "4/4/18"
+ },
+ {
+   "id": 224,
+   "presentation": 66,
+   "student-presenter-id": 628,
+   "text": "Any suggestion for the prototyping cards?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 225,
+   "presentation": 67,
+   "student-presenter-id": 622,
+   "text": "How might we mitigate the chances of winning based on pure luck?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 226,
+   "presentation": 67,
+   "student-presenter-id": 622,
+   "text": "How can we make the game fully playable without the presence of a moderator (who performs calculations to keep track of the players' scores)?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 227,
+   "presentation": 60,
+   "student-presenter-id": 646,
+   "text": "How can we help novices get started with our game and play it?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 228,
+   "presentation": 66,
+   "student-presenter-id": 628,
+   "text": "What are the other discrepancies between the novices and experts in problem-solving process",
+   "date": "4/4/18"
+ },
+ {
+   "id": 229,
+   "presentation": 66,
+   "student-presenter-id": 628,
+   "text": "How accessible is our current game? Is it too complex, too simple, or just right?",
+   "date": "4/4/18"
+ },
+ {
+   "id": 230,
+   "presentation": 38,
+   "student-presenter-id": 605,
+   "text": "ques_7",
+   "date": "4/12/18"
+ },
+ {
+   "id": 231,
+   "presentation": 68,
+   "student-presenter-id": 609,
+   "text": "What components of our educational goals are missing or under emphasized by our current design?",
+   "date": "4/17/18"
+ },
+ {
+   "id": 232,
+   "presentation": 68,
+   "student-presenter-id": 609,
+   "text": "What learning science principles should we be thinking about going forward?",
+   "date": "4/17/18"
+ },
+ {
+   "id": 233,
+   "presentation": 68,
+   "student-presenter-id": 614,
+   "text": "How could we encourage players to be more strategic with bit operations rather than brute forcing or guessing in our game?",
+   "date": "4/17/18"
+ },
+ {
+   "id": 234,
+   "presentation": 68,
+   "student-presenter-id": 609,
+   "text": "How can we find ways to have players practice with operators that feel overpowered in our games?",
+   "date": "4/17/18"
+ },
+ {
+   "id": 235,
+   "presentation": 68,
+   "student-presenter-id": 609,
+   "text": "One of our abstraction ideas is to represent 0 with white and 1 with black. What are some other ways we can abstract out 0s and 1s?",
+   "date": "4/17/18"
+ },
+ {
+   "id": 236,
+   "presentation": 69,
+   "student-presenter-id": 607,
+   "text": "What components of our educational goals are missing or under emphasized by our current design?",
+   "date": "4/17/18"
+ },
+ {
+   "id": 237,
+   "presentation": 69,
+   "student-presenter-id": 607,
+   "text": "What learning science principles should we be thinking about going forward?",
+   "date": "4/17/18"
+ },
+ {
+   "id": 238,
+   "presentation": 69,
+   "student-presenter-id": 607,
+   "text": "What are some examples of landmarks that are confusing to orient with?",
+   "date": "4/17/18"
+ },
+ {
+   "id": 239,
+   "presentation": 69,
+   "student-presenter-id": 607,
+   "text": "What are some areas for greatest improvement (for our game)?",
+   "date": "4/17/18"
+ },
+ {
+   "id": 240,
+   "presentation": 69,
+   "student-presenter-id": 613,
+   "text": "How can you confirm an exact location on a grid board without using exact coordinates?",
+   "date": "4/17/18"
+ },
+ {
+   "id": 241,
+   "presentation": 70,
+   "student-presenter-id": 616,
+   "text": "[Instructor] What components of our educational goals are missing or under emphasized by our current design?",
+   "date": "4/17/18"
+ },
+ {
+   "id": 242,
+   "presentation": 70,
+   "student-presenter-id": 616,
+   "text": "[Instructor] What learning science principles should we be thinking about going forward?",
+   "date": "4/17/18"
+ },
+ {
+   "id": 243,
+   "presentation": 73,
+   "student-presenter-id": 628,
+   "text": "What components of our educational goals are missing or under emphasized by our current design?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 244,
+   "presentation": 73,
+   "student-presenter-id": 628,
+   "text": "What learning science principles should we be thinking about going forward?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 245,
+   "presentation": 72,
+   "student-presenter-id": 632,
+   "text": "What components of our educational goals are missing or under emphasized by our current design?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 246,
+   "presentation": 72,
+   "student-presenter-id": 632,
+   "text": "What learning science principles should we be thinking about going forward?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 247,
+   "presentation": 64,
+   "student-presenter-id": 641,
+   "text": "What components of our educational goals are missing or under emphasized by our current design?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 248,
+   "presentation": 64,
+   "student-presenter-id": 641,
+   "text": "What learning science principles should we be thinking about going forward?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 249,
+   "presentation": 64,
+   "student-presenter-id": 641,
+   "text": "What additional agents would you like to see in the game?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 250,
+   "presentation": 64,
+   "student-presenter-id": 641,
+   "text": "What aspects of the game should we be focusing on?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 251,
+   "presentation": 64,
+   "student-presenter-id": 641,
+   "text": "What would you suggest to be a method of including the inconvenience factor without penalizing voting too much?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 252,
+   "presentation": 74,
+   "student-presenter-id": 619,
+   "text": "Instructor: What components of our educational goals are missing or under emphasized by our current design?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 253,
+   "presentation": 74,
+   "student-presenter-id": 619,
+   "text": "Instructor: What learning science principles should we be thinking about going forward?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 254,
+   "presentation": 74,
+   "student-presenter-id": 619,
+   "text": "When prompted, please try imagining a student based on the traits provided. How easy is it to picture the student? How might the art style we choose affect how you picture the student?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 255,
+   "presentation": 74,
+   "student-presenter-id": 619,
+   "text": "How prescriptive should we be with students and situations; is it easy to imagine a student with the information provided? Are there any student trait categories we're overlooking?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 256,
+   "presentation": 74,
+   "student-presenter-id": 619,
+   "text": "How much guidance should be provided for post-round discussion?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 257,
+   "presentation": 74,
+   "student-presenter-id": 619,
+   "text": "Which art style is more likely to help teachers avoid adhering to stereotypes when addressing student issues?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 258,
+   "presentation": 74,
+   "student-presenter-id": 619,
+   "text": "Instructor: What components of our educational goals are missing or under emphasized by our current design?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 259,
+   "presentation": 74,
+   "student-presenter-id": 619,
+   "text": "Instructor: What learning science principles should we be thinking about going forward?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 260,
+   "presentation": 75,
+   "student-presenter-id": 624,
+   "text": "(Instructor) What components of our educational goals are missing or under emphasized by our current design?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 261,
+   "presentation": 75,
+   "student-presenter-id": 624,
+   "text": "(Instructor) What learning science principles should we be thinking about going forward?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 262,
+   "presentation": 75,
+   "student-presenter-id": 622,
+   "text": "As a game moderator, does the revised version feel like a manageable game for 4 people?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 263,
+   "presentation": 75,
+   "student-presenter-id": 622,
+   "text": "What do you think about the design of our game board and share cards?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 264,
+   "presentation": 75,
+   "student-presenter-id": 622,
+   "text": "As a reference, how were you able to balance between making your game exciting and educational?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 265,
+   "presentation": 75,
+   "student-presenter-id": 622,
+   "text": "What type of people should we playtest our game for the next iterations?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 266,
+   "presentation": 73,
+   "student-presenter-id": 628,
+   "text": "Based on your design experience, what is your most interesting design experience (topics, clients, teammates,etc..)?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 267,
+   "presentation": 76,
+   "student-presenter-id": 625,
+   "text": "What components of our educational goals are missing or under emphasized by our current design?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 268,
+   "presentation": 76,
+   "student-presenter-id": 625,
+   "text": "What learning science principles should we be thinking about going forward?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 269,
+   "presentation": 76,
+   "student-presenter-id": 625,
+   "text": "How might we better incorporate the educational lessons into a more interactive game mechanics?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 270,
+   "presentation": 77,
+   "student-presenter-id": 636,
+   "text": "We want students to use a strategy that is similar to the steps in our expert CTA. How do we do that ? - Do we give it to them through direct instructions? Do we hope that they eventually develop it? Others suggestions...",
+   "date": "4/18/18"
+ },
+ {
+   "id": 271,
+   "presentation": 72,
+   "student-presenter-id": 631,
+   "text": "Do you find this game understandable and interesting enough to play?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 272,
+   "presentation": 77,
+   "student-presenter-id": 636,
+   "text": "Can you think of design ideas of representing components claimed by a person? Currently we write the initial of their name against that component. We've thought about small labels we stick against the component. Other suggestions...",
+   "date": "4/18/18"
+ },
+ {
+   "id": 273,
+   "presentation": 76,
+   "student-presenter-id": 638,
+   "text": "How might we improve the narrative?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 274,
+   "presentation": 70,
+   "student-presenter-id": 644,
+   "text": "How does multiplayer affect the ability to get educational goals across?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 275,
+   "presentation": 70,
+   "student-presenter-id": 643,
+   "text": "What can be an effective way to give targeted, educational feedback in midst of a time-attack, competitive session?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 276,
+   "presentation": 70,
+   "student-presenter-id": 643,
+   "text": "After players put the stars together, what kind of task would help them remember the relation of form and constellation better?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 277,
+   "presentation": 70,
+   "student-presenter-id": 643,
+   "text": "Do you think our CTA is appropriate for the game we are making?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 278,
+   "presentation": 76,
+   "student-presenter-id": 638,
+   "text": "What other mini-games might we include? (ex: portioning, mixing, cutting)",
+   "date": "4/18/18"
+ },
+ {
+   "id": 279,
+   "presentation": 72,
+   "student-presenter-id": 632,
+   "text": "What parts of improvisation do you find challenging?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 280,
+   "presentation": 77,
+   "student-presenter-id": 635,
+   "text": "What components of our educational goals are missing or under emphasized by our current design?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 281,
+   "presentation": 77,
+   "student-presenter-id": 635,
+   "text": "What learning science principles should we be thinking about going forward?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 282,
+   "presentation": 77,
+   "student-presenter-id": 635,
+   "text": "Some players feel a little overwhelmed when they see our game board for the first time. How can we help complete novices not be as intimidated by the idea of analyzing a circuit diagram?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 283,
+   "presentation": 72,
+   "student-presenter-id": 646,
+   "text": "How can we easily separate the game into levels (without making it too hard to set up, ie if there are different tile distributions for each level)?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 284,
+   "presentation": 73,
+   "student-presenter-id": 628,
+   "text": "How can we better incorporate feedback into our game?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 285,
+   "presentation": 73,
+   "student-presenter-id": 628,
+   "text": "Any ideas about how to go about scoring the game? EX: Individual winner, ranking players (1,2,3)....",
+   "date": "4/18/18"
+ },
+ {
+   "id": 286,
+   "presentation": 73,
+   "student-presenter-id": 628,
+   "text": "How to change the mechanics of the game and make the instruction more explicit?",
+   "date": "4/18/18"
+ },
+ {
+   "id": 287,
+   "presentation": 64,
+   "student-presenter-id": 641,
+   "text": "Comment on the current level of abstraction that we have with the game and how effective do you think it is.",
+   "date": "4/18/18"
+ },
+ {
+   "id": 288,
+   "presentation": 78,
+   "student-presenter-id": 650,
+   "text": "asdf",
+   "date": "5/8/18"
+ },
+ {
+   "id": 289,
+   "presentation": 79,
+   "student-presenter-id": 651,
+   "text": "q1",
+   "date": "5/16/18"
+ },
+ {
+   "id": 290,
+   "presentation": 79,
+   "student-presenter-id": 651,
+   "text": "q2",
+   "date": "5/16/18"
+ },
+ {
+   "id": 291,
+   "presentation": 79,
+   "student-presenter-id": 651,
+   "text": "q3",
+   "date": "5/16/18"
+ },
+ {
+   "id": 292,
+   "presentation": 79,
+   "student-presenter-id": 651,
+   "text": "q4",
+   "date": "5/16/18"
+ },
+ {
+   "id": 293,
+   "presentation": 79,
+   "student-presenter-id": 651,
+   "text": "q5",
+   "date": "5/16/18"
+ },
+ {
+   "id": 294,
+   "presentation": 79,
+   "student-presenter-id": 651,
+   "text": "q6",
+   "date": "5/16/18"
+ },
+ {
+   "id": 295,
+   "presentation": 81,
+   "student-presenter-id": 647,
+   "text": "Please give us your feedback here.",
+   "date": "6/7/18"
+ },
+ {
+   "id": 296,
+   "presentation": 82,
+   "student-presenter-id": 653,
+   "text": "Do you have any general feedback to give this team?",
+   "date": "6/7/18"
+ },
+ {
+   "id": 297,
+   "presentation": 83,
+   "student-presenter-id": 654,
+   "text": "How do you think our sprint went?",
+   "date": "6/7/18"
+ },
+ {
+   "id": 298,
+   "presentation": 83,
+   "student-presenter-id": 654,
+   "text": "What should we prototype next?",
+   "date": "6/7/18"
+ },
+ {
+   "id": 299,
+   "presentation": 83,
+   "student-presenter-id": 654,
+   "text": "How do we recruit older consumers to test?",
+   "date": "6/7/18"
+ },
+ {
+   "id": 300,
+   "presentation": 83,
+   "student-presenter-id": 654,
+   "text": "How do you imagine us creating UX guidelines for this type of authentication?",
+   "date": "6/7/18"
+ },
+ {
+   "id": 301,
+   "presentation": 84,
+   "student-presenter-id": 655,
+   "text": "Can you explain to a 5 year old what we're doing?",
+   "date": "6/7/18"
+ },
+ {
+   "id": 302,
+   "presentation": 84,
+   "student-presenter-id": 655,
+   "text": "What issues do you think we need to address?",
+   "date": "6/7/18"
+ },
+ {
+   "id": 303,
+   "presentation": 90,
+   "student-presenter-id": 666,
+   "text": "Is our approach appropriate for our stated goals?",
+   "date": "6/7/18"
+ },
+ {
+   "id": 304,
+   "presentation": 90,
+   "student-presenter-id": 666,
+   "text": "What would you suggest we do instead?",
+   "date": "6/7/18"
+ },
+ {
+   "id": 305,
+   "presentation": 84,
+   "student-presenter-id": 674,
+   "text": "Who do you think we should user test with next?",
+   "date": "6/7/18"
+ },
+ {
+   "id": 306,
+   "presentation": 84,
+   "student-presenter-id": 657,
+   "text": "What issues can we iron out testing with MHCI people vs. actual end users?",
+   "date": "6/7/18"
+ },
+ {
+   "id": 307,
+   "presentation": 91,
+   "student-presenter-id": 667,
+   "text": "What do you think of our idea?",
+   "date": "6/7/18"
+ },
+ {
+   "id": 308,
+   "presentation": 91,
+   "student-presenter-id": 667,
+   "text": "How should we user test this next?",
+   "date": "6/7/18"
+ },
+ {
+   "id": 309,
+   "presentation": 91,
+   "student-presenter-id": 669,
+   "text": "Thoughts on our potential additional features?",
+   "date": "6/7/18"
+ },
+ {
+   "id": 310,
+   "presentation": 83,
+   "student-presenter-id": 654,
+   "text": "How do we actually communicate Continuous Authentication to regular people?",
+   "date": "6/7/18"
+ },
+ {
+   "id": 311,
+   "presentation": 83,
+   "student-presenter-id": 654,
+   "text": "How do you think our sprint went?",
+   "date": "6/7/18"
+ },
+ {
+   "id": 312,
+   "presentation": 83,
+   "student-presenter-id": 654,
+   "text": "How do you think our sprint went?",
+   "date": "6/7/18"
+ },
+ {
+   "id": 313,
+   "presentation": 83,
+   "student-presenter-id": 672,
+   "text": "What do you think our prototype is trying to test?",
+   "date": "6/7/18"
+ },
+ {
+   "id": 314,
+   "presentation": 87,
+   "student-presenter-id": 661,
+   "text": "Please provide feedback?",
+   "date": "6/7/18"
+ },
+ {
+   "id": 315,
+   "presentation": 87,
+   "student-presenter-id": 661,
+   "text": "How does your team quickly gather insights from qualitative data? How do you decide what feedback to act upon?",
+   "date": "6/7/18"
+ },
+ {
+   "id": 316,
+   "presentation": 83,
+   "student-presenter-id": 654,
+   "text": "How do we recruit older consumers to test?",
+   "date": "6/7/18"
+ },
+ {
+   "id": 317,
+   "presentation": 92,
+   "student-presenter-id": 681,
+   "text": "Thoughts and opinions on the ideas being pursued",
+   "date": "6/7/18"
+ },
+ {
+   "id": 318,
+   "presentation": 92,
+   "student-presenter-id": 681,
+   "text": "Do you think the creative act is too simple?",
+   "date": "6/7/18"
+ },
+ {
+   "id": 319,
+   "presentation": 92,
+   "student-presenter-id": 681,
+   "text": "How can the complexity of the app be ramped up in time?",
+   "date": "6/7/18"
+ },
+ {
+   "id": 320,
+   "presentation": 92,
+   "student-presenter-id": 681,
+   "text": "Do you consider our idea as a feature or a product",
+   "date": "6/7/18"
+ },
+ {
+   "id": 321,
+   "presentation": 92,
+   "student-presenter-id": 681,
+   "text": "Do you have any suggestions on user test our ideas",
+   "date": "6/7/18"
+ },
+ {
+   "id": 322,
+   "presentation": 93,
+   "student-presenter-id": 683,
+   "text": "hello there",
+   "date": "6/13/18"
+ },
+ {
+   "id": 323,
+   "presentation": 93,
+   "student-presenter-id": 683,
+   "text": "yes and",
+   "date": "6/13/18"
+ }
+]

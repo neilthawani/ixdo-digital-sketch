@@ -1,0 +1,2034 @@
+[
+ {
+   "id": 31,
+   "voter": 41,
+   "date": "0000-00-00",
+   "response": 51,
+   "Old emoji code": 1028,
+   "emoji_code": "C"
+ },
+ {
+   "id": 32,
+   "voter": 41,
+   "date": "0000-00-00",
+   "response": 52,
+   "Old emoji code": 2007,
+   "emoji_code": "G"
+ },
+ {
+   "id": 33,
+   "voter": 42,
+   "date": "0000-00-00",
+   "response": 51,
+   "Old emoji code": 1028,
+   "emoji_code": "C"
+ },
+ {
+   "id": 34,
+   "voter": 104,
+   "date": "0000-00-00",
+   "response": 67,
+   "Old emoji code": 1028,
+   "emoji_code": "C"
+ },
+ {
+   "id": 35,
+   "voter": 105,
+   "date": "0000-00-00",
+   "response": 67,
+   "Old emoji code": 2007,
+   "emoji_code": "G"
+ },
+ {
+   "id": 36,
+   "voter": 106,
+   "date": "0000-00-00",
+   "response": 67,
+   "Old emoji code": 1317,
+   "emoji_code": "D"
+ },
+ {
+   "id": 37,
+   "voter": 107,
+   "date": "0000-00-00",
+   "response": 67,
+   "Old emoji code": 1317,
+   "emoji_code": "D"
+ },
+ {
+   "id": 38,
+   "voter": 108,
+   "date": "0000-00-00",
+   "response": 67,
+   "Old emoji code": 1317,
+   "emoji_code": "D"
+ },
+ {
+   "id": 45,
+   "voter": 113,
+   "date": "0000-00-00",
+   "response": 67,
+   "Old emoji code": 2007,
+   "emoji_code": "G"
+ },
+ {
+   "id": 46,
+   "voter": 118,
+   "date": "0000-00-00",
+   "response": 68,
+   "Old emoji code": 716,
+   "emoji_code": "B"
+ },
+ {
+   "id": 47,
+   "voter": 118,
+   "date": "0000-00-00",
+   "response": 68,
+   "Old emoji code": 3232,
+   "emoji_code": "M"
+ },
+ {
+   "id": 190,
+   "voter": 129,
+   "date": "0000-00-00",
+   "response": 51,
+   "Old emoji code": 1028,
+   "emoji_code": "C"
+ },
+ {
+   "id": 218,
+   "voter": 133,
+   "date": "0000-00-00",
+   "response": 51,
+   "Old emoji code": 1028,
+   "emoji_code": "C"
+ },
+ {
+   "id": 260,
+   "voter": 142,
+   "date": "0000-00-00",
+   "response": 72,
+   "Old emoji code": 2614,
+   "emoji_code": "I"
+ },
+ {
+   "id": 261,
+   "voter": 143,
+   "date": "0000-00-00",
+   "response": 72,
+   "Old emoji code": 1317,
+   "emoji_code": "D"
+ },
+ {
+   "id": 262,
+   "voter": 142,
+   "date": "0000-00-00",
+   "response": 72,
+   "Old emoji code": 1317,
+   "emoji_code": "D"
+ },
+ {
+   "id": 266,
+   "voter": 168,
+   "date": "0000-00-00",
+   "response": 103,
+   "Old emoji code": 2005,
+   "emoji_code": "G"
+ },
+ {
+   "id": 276,
+   "voter": 174,
+   "date": "0000-00-00",
+   "response": 51,
+   "Old emoji code": 1028,
+   "emoji_code": "C"
+ },
+ {
+   "id": 278,
+   "voter": 174,
+   "date": "0000-00-00",
+   "response": 51,
+   "Old emoji code": 1028,
+   "emoji_code": "C"
+ },
+ {
+   "id": 279,
+   "voter": 174,
+   "date": "0000-00-00",
+   "response": 51,
+   "Old emoji code": 1028,
+   "emoji_code": "C"
+ },
+ {
+   "id": 282,
+   "voter": 176,
+   "date": "0000-00-00",
+   "response": 111,
+   "Old emoji code": 714,
+   "emoji_code": "B"
+ },
+ {
+   "id": 284,
+   "voter": 176,
+   "date": "0000-00-00",
+   "response": 111,
+   "Old emoji code": 915,
+   "emoji_code": "C"
+ },
+ {
+   "id": 290,
+   "voter": 179,
+   "date": "0000-00-00",
+   "response": 112,
+   "Old emoji code": 1028,
+   "emoji_code": "C"
+ },
+ {
+   "id": 296,
+   "voter": 104,
+   "date": "7/24/17",
+   "response": 123,
+   "Old emoji code": 218,
+   "emoji_code": "A"
+ },
+ {
+   "id": 297,
+   "voter": 104,
+   "date": "7/24/17",
+   "response": 123,
+   "Old emoji code": 1317,
+   "emoji_code": "D"
+ },
+ {
+   "id": 298,
+   "voter": 213,
+   "date": "7/24/17",
+   "response": 123,
+   "Old emoji code": 1317,
+   "emoji_code": "D"
+ },
+ {
+   "id": 299,
+   "voter": 182,
+   "date": "7/24/17",
+   "response": 124,
+   "Old emoji code": 3025,
+   "emoji_code": "L"
+ },
+ {
+   "id": 300,
+   "voter": 148,
+   "date": "7/24/17",
+   "response": 126,
+   "Old emoji code": 716,
+   "emoji_code": "B"
+ },
+ {
+   "id": 313,
+   "voter": 224,
+   "date": "7/24/17",
+   "response": 127,
+   "Old emoji code": 716,
+   "emoji_code": "B"
+ },
+ {
+   "id": 315,
+   "voter": 227,
+   "date": "7/24/17",
+   "response": 123,
+   "Old emoji code": 218,
+   "emoji_code": "A"
+ },
+ {
+   "id": 327,
+   "voter": 222,
+   "date": "7/24/17",
+   "response": 127,
+   "Old emoji code": 716,
+   "emoji_code": "B"
+ },
+ {
+   "id": 328,
+   "voter": 232,
+   "date": "7/24/17",
+   "response": 127,
+   "Old emoji code": 716,
+   "emoji_code": "B"
+ },
+ {
+   "id": 329,
+   "voter": 234,
+   "date": "7/25/17",
+   "response": 128,
+   "Old emoji code": 937,
+   "emoji_code": "C"
+ },
+ {
+   "id": 330,
+   "voter": 235,
+   "date": "7/25/17",
+   "response": 130,
+   "Old emoji code": 714,
+   "emoji_code": "B"
+ },
+ {
+   "id": 331,
+   "voter": 235,
+   "date": "7/25/17",
+   "response": 128,
+   "Old emoji code": 937,
+   "emoji_code": "C"
+ },
+ {
+   "id": 332,
+   "voter": 239,
+   "date": "7/25/17",
+   "response": 131,
+   "Old emoji code": 716,
+   "emoji_code": "B"
+ },
+ {
+   "id": 333,
+   "voter": 239,
+   "date": "7/25/17",
+   "response": 132,
+   "Old emoji code": 218,
+   "emoji_code": "A"
+ },
+ {
+   "id": 334,
+   "voter": 239,
+   "date": "7/25/17",
+   "response": 132,
+   "Old emoji code": 2105,
+   "emoji_code": "G"
+ },
+ {
+   "id": 335,
+   "voter": 240,
+   "date": "7/25/17",
+   "response": 132,
+   "Old emoji code": 218,
+   "emoji_code": "A"
+ },
+ {
+   "id": 336,
+   "voter": 240,
+   "date": "7/25/17",
+   "response": 132,
+   "Old emoji code": 2105,
+   "emoji_code": "G"
+ },
+ {
+   "id": 337,
+   "voter": 240,
+   "date": "7/25/17",
+   "response": 133,
+   "Old emoji code": 716,
+   "emoji_code": "B"
+ },
+ {
+   "id": 338,
+   "voter": 241,
+   "date": "7/25/17",
+   "response": 134,
+   "Old emoji code": 218,
+   "emoji_code": "A"
+ },
+ {
+   "id": 339,
+   "voter": 241,
+   "date": "7/25/17",
+   "response": 134,
+   "Old emoji code": 716,
+   "emoji_code": "B"
+ },
+ {
+   "id": 340,
+   "voter": 241,
+   "date": "7/25/17",
+   "response": 131,
+   "Old emoji code": 716,
+   "emoji_code": "B"
+ },
+ {
+   "id": 341,
+   "voter": 241,
+   "date": "7/25/17",
+   "response": 134,
+   "Old emoji code": 2614,
+   "emoji_code": "I"
+ },
+ {
+   "id": 342,
+   "voter": 240,
+   "date": "7/25/17",
+   "response": 133,
+   "Old emoji code": 1317,
+   "emoji_code": "D"
+ },
+ {
+   "id": 343,
+   "voter": 241,
+   "date": "7/25/17",
+   "response": 127,
+   "Old emoji code": 714,
+   "emoji_code": "B"
+ },
+ {
+   "id": 344,
+   "voter": 241,
+   "date": "7/25/17",
+   "response": 126,
+   "Old emoji code": 218,
+   "emoji_code": "A"
+ },
+ {
+   "id": 345,
+   "voter": 186,
+   "date": "7/25/17",
+   "response": 136,
+   "Old emoji code": 1028,
+   "emoji_code": "C"
+ },
+ {
+   "id": 346,
+   "voter": 186,
+   "date": "7/25/17",
+   "response": 136,
+   "Old emoji code": 3011,
+   "emoji_code": "L"
+ },
+ {
+   "id": 347,
+   "voter": 242,
+   "date": "7/25/17",
+   "response": 136,
+   "Old emoji code": 3011,
+   "emoji_code": "L"
+ },
+ {
+   "id": 348,
+   "voter": 186,
+   "date": "7/25/17",
+   "response": 136,
+   "Old emoji code": 710,
+   "emoji_code": "B"
+ },
+ {
+   "id": 349,
+   "voter": 186,
+   "date": "7/25/17",
+   "response": 136,
+   "Old emoji code": 3329,
+   "emoji_code": "M"
+ },
+ {
+   "id": 350,
+   "voter": 186,
+   "date": "7/25/17",
+   "response": 136,
+   "Old emoji code": 706,
+   "emoji_code": "B"
+ },
+ {
+   "id": 351,
+   "voter": 186,
+   "date": "7/25/17",
+   "response": 136,
+   "Old emoji code": 3301,
+   "emoji_code": "M"
+ },
+ {
+   "id": 352,
+   "voter": 243,
+   "date": "7/25/17",
+   "response": 141,
+   "Old emoji code": 2009,
+   "emoji_code": "G"
+ },
+ {
+   "id": 353,
+   "voter": 244,
+   "date": "7/25/17",
+   "response": 142,
+   "Old emoji code": 3011,
+   "emoji_code": "L"
+ },
+ {
+   "id": 355,
+   "voter": 245,
+   "date": "7/25/17",
+   "response": 142,
+   "Old emoji code": 3011,
+   "emoji_code": "L"
+ },
+ {
+   "id": 357,
+   "voter": 244,
+   "date": "7/25/17",
+   "response": 143,
+   "Old emoji code": 218,
+   "emoji_code": "A"
+ },
+ {
+   "id": 358,
+   "voter": 245,
+   "date": "7/25/17",
+   "response": 143,
+   "Old emoji code": 218,
+   "emoji_code": "A"
+ },
+ {
+   "id": 359,
+   "voter": 186,
+   "date": "7/25/17",
+   "response": 144,
+   "Old emoji code": 2107,
+   "emoji_code": "G"
+ },
+ {
+   "id": 360,
+   "voter": 246,
+   "date": "7/25/17",
+   "response": 145,
+   "Old emoji code": 2106,
+   "emoji_code": "G"
+ },
+ {
+   "id": 361,
+   "voter": 246,
+   "date": "7/25/17",
+   "response": 144,
+   "Old emoji code": 217,
+   "emoji_code": "A"
+ },
+ {
+   "id": 362,
+   "voter": 246,
+   "date": "7/25/17",
+   "response": 144,
+   "Old emoji code": 2107,
+   "emoji_code": "G"
+ },
+ {
+   "id": 363,
+   "voter": 246,
+   "date": "7/25/17",
+   "response": 145,
+   "Old emoji code": 714,
+   "emoji_code": "B"
+ },
+ {
+   "id": 364,
+   "voter": 246,
+   "date": "7/25/17",
+   "response": 145,
+   "Old emoji code": 2009,
+   "emoji_code": "G"
+ },
+ {
+   "id": 365,
+   "voter": 246,
+   "date": "7/25/17",
+   "response": 146,
+   "Old emoji code": 2934,
+   "emoji_code": "L"
+ },
+ {
+   "id": 366,
+   "voter": 248,
+   "date": "7/25/17",
+   "response": 149,
+   "Old emoji code": 1005,
+   "emoji_code": "C"
+ },
+ {
+   "id": 367,
+   "voter": 248,
+   "date": "7/25/17",
+   "response": 149,
+   "Old emoji code": 3011,
+   "emoji_code": "L"
+ },
+ {
+   "id": 369,
+   "voter": 250,
+   "date": "7/25/17",
+   "response": 150,
+   "Old emoji code": 1028,
+   "emoji_code": "C"
+ },
+ {
+   "id": 370,
+   "voter": 253,
+   "date": "7/25/17",
+   "response": 152,
+   "Old emoji code": 2622,
+   "emoji_code": "I"
+ },
+ {
+   "id": 371,
+   "voter": 253,
+   "date": "7/25/17",
+   "response": 152,
+   "Old emoji code": 3303,
+   "emoji_code": "M"
+ },
+ {
+   "id": 372,
+   "voter": 252,
+   "date": "7/25/17",
+   "response": 129,
+   "Old emoji code": 3301,
+   "emoji_code": "M"
+ },
+ {
+   "id": 373,
+   "voter": 255,
+   "date": "7/25/17",
+   "response": 150,
+   "Old emoji code": 709,
+   "emoji_code": "B"
+ },
+ {
+   "id": 374,
+   "voter": 250,
+   "date": "7/25/17",
+   "response": 152,
+   "Old emoji code": 3303,
+   "emoji_code": "M"
+ },
+ {
+   "id": 375,
+   "voter": 250,
+   "date": "7/25/17",
+   "response": 158,
+   "Old emoji code": 2105,
+   "emoji_code": "G"
+ },
+ {
+   "id": 376,
+   "voter": 255,
+   "date": "7/25/17",
+   "response": 160,
+   "Old emoji code": 937,
+   "emoji_code": "C"
+ },
+ {
+   "id": 377,
+   "voter": 253,
+   "date": "7/25/17",
+   "response": 159,
+   "Old emoji code": 2706,
+   "emoji_code": "J"
+ },
+ {
+   "id": 378,
+   "voter": 254,
+   "date": "7/25/17",
+   "response": 159,
+   "Old emoji code": 2616,
+   "emoji_code": "I"
+ },
+ {
+   "id": 379,
+   "voter": 256,
+   "date": "7/25/17",
+   "response": 159,
+   "Old emoji code": 2137,
+   "emoji_code": "H"
+ },
+ {
+   "id": 380,
+   "voter": 253,
+   "date": "7/25/17",
+   "response": 159,
+   "Old emoji code": 2724,
+   "emoji_code": "J"
+ },
+ {
+   "id": 382,
+   "voter": 256,
+   "date": "7/25/17",
+   "response": 159,
+   "Old emoji code": 2115,
+   "emoji_code": "G"
+ },
+ {
+   "id": 383,
+   "voter": 255,
+   "date": "7/25/17",
+   "response": 160,
+   "Old emoji code": 3400,
+   "emoji_code": "M"
+ },
+ {
+   "id": 384,
+   "voter": 252,
+   "date": "7/25/17",
+   "response": 160,
+   "Old emoji code": 3400,
+   "emoji_code": "M"
+ },
+ {
+   "id": 385,
+   "voter": 252,
+   "date": "7/25/17",
+   "response": 159,
+   "Old emoji code": 2115,
+   "emoji_code": "G"
+ },
+ {
+   "id": 387,
+   "voter": 252,
+   "date": "7/25/17",
+   "response": 159,
+   "Old emoji code": 3909,
+   "emoji_code": "O"
+ },
+ {
+   "id": 390,
+   "voter": 254,
+   "date": "7/25/17",
+   "response": 158,
+   "Old emoji code": 2105,
+   "emoji_code": "G"
+ },
+ {
+   "id": 392,
+   "voter": 255,
+   "date": "7/25/17",
+   "response": 152,
+   "Old emoji code": 3303,
+   "emoji_code": "M"
+ },
+ {
+   "id": 395,
+   "voter": 253,
+   "date": "7/25/17",
+   "response": 161,
+   "Old emoji code": 1028,
+   "emoji_code": "C"
+ },
+ {
+   "id": 398,
+   "voter": 256,
+   "date": "7/25/17",
+   "response": 161,
+   "Old emoji code": 1028,
+   "emoji_code": "C"
+ },
+ {
+   "id": 399,
+   "voter": 257,
+   "date": "7/25/17",
+   "response": 159,
+   "Old emoji code": 2616,
+   "emoji_code": "I"
+ },
+ {
+   "id": 400,
+   "voter": 256,
+   "date": "7/25/17",
+   "response": 161,
+   "Old emoji code": 818,
+   "emoji_code": "C"
+ },
+ {
+   "id": 401,
+   "voter": 254,
+   "date": "7/25/17",
+   "response": 159,
+   "Old emoji code": 3909,
+   "emoji_code": "O"
+ },
+ {
+   "id": 402,
+   "voter": 255,
+   "date": "7/25/17",
+   "response": 164,
+   "Old emoji code": 716,
+   "emoji_code": "B"
+ },
+ {
+   "id": 403,
+   "voter": 254,
+   "date": "7/25/17",
+   "response": 159,
+   "Old emoji code": 2724,
+   "emoji_code": "J"
+ },
+ {
+   "id": 404,
+   "voter": 254,
+   "date": "7/25/17",
+   "response": 130,
+   "Old emoji code": 714,
+   "emoji_code": "B"
+ },
+ {
+   "id": 405,
+   "voter": 251,
+   "date": "7/25/17",
+   "response": 160,
+   "Old emoji code": 818,
+   "emoji_code": "C"
+ },
+ {
+   "id": 406,
+   "voter": 251,
+   "date": "7/25/17",
+   "response": 159,
+   "Old emoji code": 818,
+   "emoji_code": "C"
+ },
+ {
+   "id": 407,
+   "voter": 251,
+   "date": "7/25/17",
+   "response": 159,
+   "Old emoji code": 2616,
+   "emoji_code": "I"
+ },
+ {
+   "id": 408,
+   "voter": 253,
+   "date": "7/25/17",
+   "response": 160,
+   "Old emoji code": 915,
+   "emoji_code": "C"
+ },
+ {
+   "id": 409,
+   "voter": 258,
+   "date": "7/25/17",
+   "response": 168,
+   "Old emoji code": 2706,
+   "emoji_code": "J"
+ },
+ {
+   "id": 410,
+   "voter": 252,
+   "date": "7/25/17",
+   "response": 130,
+   "Old emoji code": 714,
+   "emoji_code": "B"
+ },
+ {
+   "id": 411,
+   "voter": 256,
+   "date": "7/25/17",
+   "response": 168,
+   "Old emoji code": 2706,
+   "emoji_code": "J"
+ },
+ {
+   "id": 412,
+   "voter": 256,
+   "date": "7/25/17",
+   "response": 168,
+   "Old emoji code": 1940,
+   "emoji_code": "G"
+ },
+ {
+   "id": 413,
+   "voter": 260,
+   "date": "7/25/17",
+   "response": 178,
+   "Old emoji code": 728,
+   "emoji_code": "B"
+ },
+ {
+   "id": 414,
+   "voter": 253,
+   "date": "7/25/17",
+   "response": 184,
+   "Old emoji code": 14,
+   "emoji_code": "A"
+ },
+ {
+   "id": 415,
+   "voter": 253,
+   "date": "7/25/17",
+   "response": 192,
+   "Old emoji code": 2003,
+   "emoji_code": "G"
+ },
+ {
+   "id": 419,
+   "voter": 273,
+   "date": "7/28/17",
+   "response": 160,
+   "Old emoji code": 915,
+   "emoji_code": "C"
+ },
+ {
+   "id": 420,
+   "voter": 273,
+   "date": "7/28/17",
+   "response": 162,
+   "Old emoji code": 3011,
+   "emoji_code": "L"
+ },
+ {
+   "id": 421,
+   "voter": 273,
+   "date": "7/28/17",
+   "response": 162,
+   "Old emoji code": 2106,
+   "emoji_code": "G"
+ },
+ {
+   "id": 422,
+   "voter": 273,
+   "date": "7/28/17",
+   "response": 162,
+   "Old emoji code": 3237,
+   "emoji_code": "M"
+ },
+ {
+   "id": 423,
+   "voter": 273,
+   "date": "7/28/17",
+   "response": 162,
+   "Old emoji code": 3239,
+   "emoji_code": "M"
+ },
+ {
+   "id": 424,
+   "voter": 273,
+   "date": "7/28/17",
+   "response": 162,
+   "Old emoji code": 217,
+   "emoji_code": "A"
+ },
+ {
+   "id": 425,
+   "voter": 273,
+   "date": "7/28/17",
+   "response": 162,
+   "Old emoji code": 2614,
+   "emoji_code": "I"
+ },
+ {
+   "id": 426,
+   "voter": 273,
+   "date": "7/28/17",
+   "response": 162,
+   "Old emoji code": 2614,
+   "emoji_code": "I"
+ },
+ {
+   "id": 427,
+   "voter": 273,
+   "date": "7/28/17",
+   "response": 162,
+   "Old emoji code": 3238,
+   "emoji_code": "M"
+ },
+ {
+   "id": 428,
+   "voter": 273,
+   "date": "7/28/17",
+   "response": 162,
+   "Old emoji code": 3236,
+   "emoji_code": "M"
+ },
+ {
+   "id": 429,
+   "voter": 273,
+   "date": "7/28/17",
+   "response": 162,
+   "Old emoji code": 3304,
+   "emoji_code": "M"
+ },
+ {
+   "id": 435,
+   "voter": 275,
+   "date": "7/28/17",
+   "response": 192,
+   "Old emoji code": 218,
+   "emoji_code": "A"
+ },
+ {
+   "id": 437,
+   "voter": 275,
+   "date": "7/28/17",
+   "response": 192,
+   "Old emoji code": 3300,
+   "emoji_code": "M"
+ },
+ {
+   "id": 438,
+   "voter": 275,
+   "date": "7/28/17",
+   "response": 192,
+   "Old emoji code": 3011,
+   "emoji_code": "L"
+ },
+ {
+   "id": 439,
+   "voter": 275,
+   "date": "7/28/17",
+   "response": 192,
+   "Old emoji code": 3239,
+   "emoji_code": "M"
+ },
+ {
+   "id": 440,
+   "voter": 275,
+   "date": "7/28/17",
+   "response": 192,
+   "Old emoji code": 3238,
+   "emoji_code": "M"
+ },
+ {
+   "id": 450,
+   "voter": 268,
+   "date": "7/28/17",
+   "response": 192,
+   "Old emoji code": 3011,
+   "emoji_code": "L"
+ },
+ {
+   "id": 454,
+   "voter": 279,
+   "date": "7/30/17",
+   "response": 217,
+   "Old emoji code": 3326,
+   "emoji_code": "M"
+ },
+ {
+   "id": 456,
+   "voter": 278,
+   "date": "7/30/17",
+   "response": 218,
+   "Old emoji code": 2518,
+   "emoji_code": "I"
+ },
+ {
+   "id": 457,
+   "voter": 279,
+   "date": "7/30/17",
+   "response": 218,
+   "Old emoji code": 2518,
+   "emoji_code": "I"
+ },
+ {
+   "id": 458,
+   "voter": 278,
+   "date": "7/30/17",
+   "response": 217,
+   "Old emoji code": 2426,
+   "emoji_code": "I"
+ },
+ {
+   "id": 459,
+   "voter": 278,
+   "date": "7/30/17",
+   "response": 218,
+   "Old emoji code": 706,
+   "emoji_code": "B"
+ },
+ {
+   "id": 460,
+   "voter": 279,
+   "date": "7/30/17",
+   "response": 218,
+   "Old emoji code": 712,
+   "emoji_code": "B"
+ },
+ {
+   "id": 461,
+   "voter": 279,
+   "date": "7/30/17",
+   "response": 218,
+   "Old emoji code": 702,
+   "emoji_code": "B"
+ },
+ {
+   "id": 462,
+   "voter": 279,
+   "date": "7/30/17",
+   "response": 218,
+   "Old emoji code": 716,
+   "emoji_code": "B"
+ },
+ {
+   "id": 464,
+   "voter": 278,
+   "date": "7/30/17",
+   "response": 218,
+   "Old emoji code": 2116,
+   "emoji_code": "G"
+ },
+ {
+   "id": 465,
+   "voter": 279,
+   "date": "7/30/17",
+   "response": 218,
+   "Old emoji code": 2008,
+   "emoji_code": "G"
+ },
+ {
+   "id": 466,
+   "voter": 279,
+   "date": "7/30/17",
+   "response": 218,
+   "Old emoji code": 2114,
+   "emoji_code": "G"
+ },
+ {
+   "id": 467,
+   "voter": 278,
+   "date": "7/30/17",
+   "response": 218,
+   "Old emoji code": 1028,
+   "emoji_code": "C"
+ },
+ {
+   "id": 468,
+   "voter": 279,
+   "date": "7/30/17",
+   "response": 218,
+   "Old emoji code": 2114,
+   "emoji_code": "G"
+ },
+ {
+   "id": 469,
+   "voter": 279,
+   "date": "7/30/17",
+   "response": 218,
+   "Old emoji code": 1028,
+   "emoji_code": "C"
+ },
+ {
+   "id": 470,
+   "voter": 279,
+   "date": "7/30/17",
+   "response": 218,
+   "Old emoji code": 2008,
+   "emoji_code": "G"
+ },
+ {
+   "id": 471,
+   "voter": 279,
+   "date": "7/30/17",
+   "response": 218,
+   "Old emoji code": 3239,
+   "emoji_code": "M"
+ },
+ {
+   "id": 472,
+   "voter": 278,
+   "date": "7/30/17",
+   "response": 218,
+   "Old emoji code": 1540,
+   "emoji_code": "E"
+ },
+ {
+   "id": 473,
+   "voter": 279,
+   "date": "7/30/17",
+   "response": 218,
+   "Old emoji code": 3306,
+   "emoji_code": "M"
+ },
+ {
+   "id": 474,
+   "voter": 279,
+   "date": "7/30/17",
+   "response": 218,
+   "Old emoji code": 3313,
+   "emoji_code": "M"
+ },
+ {
+   "id": 475,
+   "voter": 279,
+   "date": "7/30/17",
+   "response": 218,
+   "Old emoji code": 2429,
+   "emoji_code": "I"
+ },
+ {
+   "id": 476,
+   "voter": 279,
+   "date": "7/30/17",
+   "response": 218,
+   "Old emoji code": 2411,
+   "emoji_code": "I"
+ },
+ {
+   "id": 477,
+   "voter": 279,
+   "date": "7/30/17",
+   "response": 218,
+   "Old emoji code": 2137,
+   "emoji_code": "H"
+ },
+ {
+   "id": 478,
+   "voter": 279,
+   "date": "7/30/17",
+   "response": 218,
+   "Old emoji code": 3234,
+   "emoji_code": "M"
+ },
+ {
+   "id": 479,
+   "voter": 279,
+   "date": "7/30/17",
+   "response": 218,
+   "Old emoji code": 2433,
+   "emoji_code": "I"
+ },
+ {
+   "id": 480,
+   "voter": 278,
+   "date": "7/30/17",
+   "response": 219,
+   "Old emoji code": 937,
+   "emoji_code": "C"
+ },
+ {
+   "id": 481,
+   "voter": 279,
+   "date": "7/30/17",
+   "response": 218,
+   "Old emoji code": 2131,
+   "emoji_code": "G"
+ },
+ {
+   "id": 482,
+   "voter": 281,
+   "date": "7/30/17",
+   "response": 221,
+   "Old emoji code": 732,
+   "emoji_code": "B"
+ },
+ {
+   "id": 483,
+   "voter": 280,
+   "date": "7/30/17",
+   "response": 221,
+   "Old emoji code": 1123,
+   "emoji_code": "D"
+ },
+ {
+   "id": 484,
+   "voter": 280,
+   "date": "7/30/17",
+   "response": 221,
+   "Old emoji code": 2919,
+   "emoji_code": "J"
+ },
+ {
+   "id": 485,
+   "voter": 280,
+   "date": "7/30/17",
+   "response": 221,
+   "Old emoji code": 2134,
+   "emoji_code": "H"
+ },
+ {
+   "id": 486,
+   "voter": 281,
+   "date": "7/30/17",
+   "response": 222,
+   "Old emoji code": 1123,
+   "emoji_code": "D"
+ },
+ {
+   "id": 487,
+   "voter": 299,
+   "date": "9/6/17",
+   "response": 235,
+   "Old emoji code": 714,
+   "emoji_code": "B"
+ },
+ {
+   "id": 488,
+   "voter": 300,
+   "date": "9/6/17",
+   "response": 235,
+   "Old emoji code": 1028,
+   "emoji_code": "C"
+ },
+ {
+   "id": 489,
+   "voter": 299,
+   "date": "9/6/17",
+   "response": 241,
+   "Old emoji code": 1322,
+   "emoji_code": "D"
+ },
+ {
+   "id": 490,
+   "voter": 299,
+   "date": "9/6/17",
+   "response": 241,
+   "Old emoji code": 2717,
+   "emoji_code": "J"
+ },
+ {
+   "id": 491,
+   "voter": 302,
+   "date": "9/6/17",
+   "response": 242,
+   "Old emoji code": 721,
+   "emoji_code": "B"
+ },
+ {
+   "id": 492,
+   "voter": 299,
+   "date": "9/12/17",
+   "response": 235,
+   "Old emoji code": 1028,
+   "emoji_code": "C"
+ },
+ {
+   "id": 493,
+   "voter": 304,
+   "date": "9/14/17",
+   "response": 245,
+   "Old emoji code": 2614,
+   "emoji_code": "I"
+ },
+ {
+   "id": 494,
+   "voter": 304,
+   "date": "9/14/17",
+   "response": 245,
+   "Old emoji code": 1322,
+   "emoji_code": "D"
+ },
+ {
+   "id": 495,
+   "voter": 304,
+   "date": "9/14/17",
+   "response": 245,
+   "Old emoji code": 2621,
+   "emoji_code": "I"
+ },
+ {
+   "id": 496,
+   "voter": 305,
+   "date": "9/14/17",
+   "response": 245,
+   "Old emoji code": 1322,
+   "emoji_code": "D"
+ },
+ {
+   "id": 498,
+   "voter": 306,
+   "date": "9/14/17",
+   "response": 245,
+   "Old emoji code": 2621,
+   "emoji_code": "I"
+ },
+ {
+   "id": 500,
+   "voter": 306,
+   "date": "9/14/17",
+   "response": 245,
+   "Old emoji code": 2614,
+   "emoji_code": "I"
+ },
+ {
+   "id": 501,
+   "voter": 306,
+   "date": "9/14/17",
+   "response": 245,
+   "Old emoji code": 1322,
+   "emoji_code": "D"
+ },
+ {
+   "id": 502,
+   "voter": 307,
+   "date": "9/14/17",
+   "response": 236,
+   "Old emoji code": 915,
+   "emoji_code": "C"
+ },
+ {
+   "id": 504,
+   "voter": 317,
+   "date": "10/24/17",
+   "response": 258,
+   "Old emoji code": 915,
+   "emoji_code": "C"
+ },
+ {
+   "id": 507,
+   "voter": 318,
+   "date": "10/24/17",
+   "response": 261,
+   "Old emoji code": 2107,
+   "emoji_code": "G"
+ },
+ {
+   "id": 508,
+   "voter": 318,
+   "date": "10/24/17",
+   "response": 214,
+   "Old emoji code": 915,
+   "emoji_code": "C"
+ },
+ {
+   "id": 509,
+   "voter": 318,
+   "date": "10/24/17",
+   "response": 215,
+   "Old emoji code": 1028,
+   "emoji_code": "C"
+ },
+ {
+   "id": 512,
+   "voter": 365,
+   "date": "2/10/18",
+   "response": 487,
+   "Old emoji code": 2107,
+   "emoji_code": "G"
+ },
+ {
+   "id": 513,
+   "voter": 480,
+   "date": "3/21/18",
+   "response": 589,
+   "Old emoji code": 2616,
+   "emoji_code": "I"
+ },
+ {
+   "id": 514,
+   "voter": 484,
+   "date": "3/21/18",
+   "response": 589,
+   "Old emoji code": 2616,
+   "emoji_code": "I"
+ },
+ {
+   "id": 515,
+   "voter": 954,
+   "date": "4/4/18",
+   "response": 1700,
+   "Old emoji code": 2616,
+   "emoji_code": "I"
+ },
+ {
+   "id": 517,
+   "voter": 1129,
+   "date": "4/18/18",
+   "response": 2056,
+   "Old emoji code": 2614,
+   "emoji_code": "I"
+ },
+ {
+   "id": 518,
+   "voter": 383,
+   "date": "4/29/18",
+   "response": 507,
+   "Old emoji code": 716,
+   "emoji_code": "B"
+ },
+ {
+   "id": 519,
+   "voter": 1229,
+   "date": "4/29/18",
+   "response": 500,
+   "Old emoji code": 2009,
+   "emoji_code": "G"
+ },
+ {
+   "id": 520,
+   "voter": 371,
+   "date": "4/29/18",
+   "response": 2242,
+   "Old emoji code": 2008,
+   "emoji_code": "G"
+ },
+ {
+   "id": 521,
+   "voter": 1231,
+   "date": "4/29/18",
+   "response": 2243,
+   "Old emoji code": 714,
+   "emoji_code": "B"
+ },
+ {
+   "id": 522,
+   "voter": 371,
+   "date": "4/29/18",
+   "response": 501,
+   "Old emoji code": 2005,
+   "emoji_code": "G"
+ },
+ {
+   "id": 523,
+   "voter": 371,
+   "date": "4/29/18",
+   "response": 501,
+   "Old emoji code": 3303,
+   "emoji_code": "M"
+ },
+ {
+   "id": 524,
+   "voter": 371,
+   "date": "4/29/18",
+   "response": 501,
+   "Old emoji code": 218,
+   "emoji_code": "A"
+ },
+ {
+   "id": 525,
+   "voter": 1232,
+   "date": "4/29/18",
+   "response": 2244,
+   "Old emoji code": 712,
+   "emoji_code": "B"
+ },
+ {
+   "id": 526,
+   "voter": 371,
+   "date": "4/29/18",
+   "response": 501,
+   "Old emoji code": 2006,
+   "emoji_code": "G"
+ },
+ {
+   "id": 527,
+   "voter": 1229,
+   "date": "4/29/18",
+   "response": 501,
+   "Old emoji code": 2006,
+   "emoji_code": "G"
+ },
+ {
+   "id": 528,
+   "voter": 1229,
+   "date": "4/29/18",
+   "response": 501,
+   "Old emoji code": 218,
+   "emoji_code": "A"
+ },
+ {
+   "id": 529,
+   "voter": 1229,
+   "date": "4/29/18",
+   "response": 501,
+   "Old emoji code": 3303,
+   "emoji_code": "M"
+ },
+ {
+   "id": 530,
+   "voter": 1229,
+   "date": "4/29/18",
+   "response": 501,
+   "Old emoji code": 2005,
+   "emoji_code": "G"
+ },
+ {
+   "id": 532,
+   "voter": 1231,
+   "date": "4/29/18",
+   "response": 2246,
+   "Old emoji code": 712,
+   "emoji_code": "B"
+ },
+ {
+   "id": 533,
+   "voter": 1231,
+   "date": "4/29/18",
+   "response": 2247,
+   "Old emoji code": 2107,
+   "emoji_code": "G"
+ },
+ {
+   "id": 534,
+   "voter": 1234,
+   "date": "4/29/18",
+   "response": 2248,
+   "Old emoji code": 3025,
+   "emoji_code": "L"
+ },
+ {
+   "id": 536,
+   "voter": 1235,
+   "date": "4/29/18",
+   "response": 2249,
+   "Old emoji code": 1940,
+   "emoji_code": "G"
+ },
+ {
+   "id": 537,
+   "voter": 1236,
+   "date": "4/29/18",
+   "response": 2249,
+   "Old emoji code": 3306,
+   "emoji_code": "M"
+ },
+ {
+   "id": 538,
+   "voter": 1235,
+   "date": "4/29/18",
+   "response": 2250,
+   "Old emoji code": 2107,
+   "emoji_code": "G"
+ },
+ {
+   "id": 539,
+   "voter": 1234,
+   "date": "4/29/18",
+   "response": 2250,
+   "Old emoji code": 3220,
+   "emoji_code": "M"
+ },
+ {
+   "id": 540,
+   "voter": 1231,
+   "date": "4/29/18",
+   "response": 2252,
+   "Old emoji code": 915,
+   "emoji_code": "C"
+ },
+ {
+   "id": 541,
+   "voter": 1237,
+   "date": "4/29/18",
+   "response": 2253,
+   "Old emoji code": 714,
+   "emoji_code": "B"
+ },
+ {
+   "id": 542,
+   "voter": 1240,
+   "date": "4/29/18",
+   "response": 2259,
+   "Old emoji code": 2009,
+   "emoji_code": "G"
+ },
+ {
+   "id": 543,
+   "voter": 1242,
+   "date": "4/29/18",
+   "response": 2260,
+   "Old emoji code": 1110,
+   "emoji_code": "D"
+ },
+ {
+   "id": 544,
+   "voter": 1243,
+   "date": "5/3/18",
+   "response": 2261,
+   "Old emoji code": 2919,
+   "emoji_code": "J"
+ },
+ {
+   "id": 545,
+   "voter": 1244,
+   "date": "5/3/18",
+   "response": 2262,
+   "Old emoji code": 2009,
+   "emoji_code": "G"
+ },
+ {
+   "id": 546,
+   "voter": 1243,
+   "date": "5/3/18",
+   "response": 2263,
+   "Old emoji code": 2105,
+   "emoji_code": "G"
+ },
+ {
+   "id": 547,
+   "voter": 1244,
+   "date": "5/3/18",
+   "response": 2264,
+   "Old emoji code": 716,
+   "emoji_code": "B"
+ },
+ {
+   "id": 548,
+   "voter": 1243,
+   "date": "5/3/18",
+   "response": 2265,
+   "Old emoji code": 3238,
+   "emoji_code": "M"
+ },
+ {
+   "id": 549,
+   "voter": 1244,
+   "date": "5/3/18",
+   "response": 2266,
+   "Old emoji code": 710,
+   "emoji_code": "B"
+ },
+ {
+   "id": 550,
+   "voter": 1244,
+   "date": "5/3/18",
+   "response": 2266,
+   "Old emoji code": 1940,
+   "emoji_code": "G"
+ },
+ {
+   "id": 551,
+   "voter": 1257,
+   "date": "5/3/18",
+   "response": 2273,
+   "Old emoji code": 2103,
+   "emoji_code": "G"
+ },
+ {
+   "id": 552,
+   "voter": 1258,
+   "date": "5/3/18",
+   "response": 2274,
+   "Old emoji code": 1003,
+   "emoji_code": "C"
+ },
+ {
+   "id": 553,
+   "voter": 1257,
+   "date": "5/3/18",
+   "response": 2275,
+   "Old emoji code": 2008,
+   "emoji_code": "G"
+ },
+ {
+   "id": 554,
+   "voter": 1258,
+   "date": "5/3/18",
+   "response": 2276,
+   "Old emoji code": 1313,
+   "emoji_code": "D"
+ },
+ {
+   "id": 555,
+   "voter": 1257,
+   "date": "5/3/18",
+   "response": 2277,
+   "Old emoji code": 2614,
+   "emoji_code": "I"
+ },
+ {
+   "id": 556,
+   "voter": 1258,
+   "date": "5/3/18",
+   "response": 2280,
+   "Old emoji code": 1105,
+   "emoji_code": "D"
+ },
+ {
+   "id": 557,
+   "voter": 1260,
+   "date": "5/3/18",
+   "response": 2281,
+   "Old emoji code": 1940,
+   "emoji_code": "G"
+ },
+ {
+   "id": 558,
+   "voter": 1260,
+   "date": "5/3/18",
+   "response": 2282,
+   "Old emoji code": 710,
+   "emoji_code": "B"
+ },
+ {
+   "id": 559,
+   "voter": 1260,
+   "date": "5/3/18",
+   "response": 2282,
+   "Old emoji code": 1110,
+   "emoji_code": "D"
+ },
+ {
+   "id": 560,
+   "voter": 1245,
+   "date": "5/3/18",
+   "response": 2283,
+   "Old emoji code": 1003,
+   "emoji_code": "C"
+ },
+ {
+   "id": 561,
+   "voter": 1245,
+   "date": "5/3/18",
+   "response": 2283,
+   "Old emoji code": 3222,
+   "emoji_code": "M"
+ },
+ {
+   "id": 562,
+   "voter": 1261,
+   "date": "5/3/18",
+   "response": 2283,
+   "Old emoji code": 729,
+   "emoji_code": "B"
+ },
+ {
+   "id": 563,
+   "voter": 1261,
+   "date": "5/3/18",
+   "response": 2284,
+   "Old emoji code": 14,
+   "emoji_code": "A"
+ },
+ {
+   "id": 565,
+   "voter": 1245,
+   "date": "5/3/18",
+   "response": 2285,
+   "Old emoji code": 2105,
+   "emoji_code": "G"
+ },
+ {
+   "id": 566,
+   "voter": 1261,
+   "date": "5/3/18",
+   "response": 2285,
+   "Old emoji code": 716,
+   "emoji_code": "B"
+ },
+ {
+   "id": 567,
+   "voter": 1245,
+   "date": "5/3/18",
+   "response": 2286,
+   "Old emoji code": 1321,
+   "emoji_code": "D"
+ },
+ {
+   "id": 568,
+   "voter": 1261,
+   "date": "5/3/18",
+   "response": 2286,
+   "Old emoji code": 1313,
+   "emoji_code": "D"
+ },
+ {
+   "id": 569,
+   "voter": 1245,
+   "date": "5/3/18",
+   "response": 2268,
+   "Old emoji code": 915,
+   "emoji_code": "C"
+ },
+ {
+   "id": 570,
+   "voter": 1245,
+   "date": "5/3/18",
+   "response": 2272,
+   "Old emoji code": 915,
+   "emoji_code": "C"
+ },
+ {
+   "id": 571,
+   "voter": 1263,
+   "date": "5/3/18",
+   "response": 2287,
+   "Old emoji code": 218,
+   "emoji_code": "A"
+ },
+ {
+   "id": 572,
+   "voter": 1262,
+   "date": "5/3/18",
+   "response": 2287,
+   "Old emoji code": 2116,
+   "emoji_code": "G"
+ },
+ {
+   "id": 573,
+   "voter": 1263,
+   "date": "5/3/18",
+   "response": 2282,
+   "Old emoji code": 732,
+   "emoji_code": "B"
+ },
+ {
+   "id": 574,
+   "voter": 1263,
+   "date": "5/3/18",
+   "response": 2268,
+   "Old emoji code": 915,
+   "emoji_code": "C"
+ },
+ {
+   "id": 575,
+   "voter": 1265,
+   "date": "5/3/18",
+   "response": 2282,
+   "Old emoji code": 1317,
+   "emoji_code": "D"
+ },
+ {
+   "id": 576,
+   "voter": 1265,
+   "date": "5/3/18",
+   "response": 2281,
+   "Old emoji code": 915,
+   "emoji_code": "C"
+ },
+ {
+   "id": 577,
+   "voter": 1267,
+   "date": "5/3/18",
+   "response": 2269,
+   "Old emoji code": 2919,
+   "emoji_code": "J"
+ },
+ {
+   "id": 578,
+   "voter": 1267,
+   "date": "5/3/18",
+   "response": 508,
+   "Old emoji code": 218,
+   "emoji_code": "A"
+ },
+ {
+   "id": 579,
+   "voter": 395,
+   "date": "5/3/18",
+   "response": 2288,
+   "Old emoji code": 2113,
+   "emoji_code": "G"
+ },
+ {
+   "id": 580,
+   "voter": 395,
+   "date": "5/3/18",
+   "response": 2289,
+   "Old emoji code": 915,
+   "emoji_code": "C"
+ },
+ {
+   "id": 581,
+   "voter": 1268,
+   "date": "5/3/18",
+   "response": 2290,
+   "Old emoji code": 732,
+   "emoji_code": "B"
+ },
+ {
+   "id": 582,
+   "voter": 385,
+   "date": "5/3/18",
+   "response": 2270,
+   "Old emoji code": 716,
+   "emoji_code": "B"
+ },
+ {
+   "id": 583,
+   "voter": 1271,
+   "date": "5/3/18",
+   "response": 2291,
+   "Old emoji code": 1313,
+   "emoji_code": "D"
+ },
+ {
+   "id": 584,
+   "voter": 1272,
+   "date": "5/3/18",
+   "response": 2292,
+   "Old emoji code": 1003,
+   "emoji_code": "C"
+ },
+ {
+   "id": 585,
+   "voter": 1273,
+   "date": "5/3/18",
+   "response": 2293,
+   "Old emoji code": 218,
+   "emoji_code": "A"
+ },
+ {
+   "id": 586,
+   "voter": 1275,
+   "date": "5/9/18",
+   "response": 2277,
+   "Old emoji code": 716,
+   "emoji_code": "B"
+ },
+ {
+   "id": 587,
+   "voter": 1280,
+   "date": "6/7/18",
+   "response": 2306,
+   "Old emoji code": 2614,
+   "emoji_code": "I"
+ },
+ {
+   "id": 588,
+   "voter": 1283,
+   "date": "6/7/18",
+   "response": 2312,
+   "Old emoji code": 3025,
+   "emoji_code": "L"
+ },
+ {
+   "id": 589,
+   "voter": 1298,
+   "date": "6/7/18",
+   "response": 2324,
+   "Old emoji code": 709,
+   "emoji_code": "B"
+ },
+ {
+   "id": 590,
+   "voter": 1300,
+   "date": "6/7/18",
+   "response": 2339,
+   "Old emoji code": 217,
+   "emoji_code": "A"
+ },
+ {
+   "id": 591,
+   "voter": 1317,
+   "date": "6/7/18",
+   "response": 2367,
+   "Old emoji code": 3239,
+   "emoji_code": "M"
+ },
+ {
+   "id": 592,
+   "voter": 1317,
+   "date": "6/7/18",
+   "response": 2360,
+   "Old emoji code": 1317,
+   "emoji_code": "D"
+ },
+ {
+   "id": 593,
+   "voter": 1325,
+   "date": "6/13/18",
+   "response": 2398,
+   "Old emoji code": 1003,
+   "emoji_code": "C"
+ },
+ {
+   "id": 594,
+   "voter": 1325,
+   "date": "6/13/18",
+   "response": 2401,
+   "Old emoji code": 716,
+   "emoji_code": "B"
+ },
+ {
+   "id": 595,
+   "voter": 1325,
+   "date": "6/13/18",
+   "response": 2400,
+   "Old emoji code": 2007,
+   "emoji_code": "G"
+ },
+ {
+   "id": 596,
+   "voter": 1327,
+   "date": "6/14/18",
+   "response": 2402,
+   "Old emoji code": 3909,
+   "emoji_code": "O"
+ }
+]

@@ -1,0 +1,80 @@
+<h2 class="project-title">
+  <a href="#" target="_blank">Numo Capstone 6/7</a>
+</h2>
+
+<div class="project-feedback {{unless isInstructor "student-project-feedback-height-adj"}}">
+  <div class="project-feedback-item">
+    <div class="project-feedback-time">
+      {{#if isInstructor}}
+        0:00
+      {{else}}
+        0:10
+      {{/if}}
+    </div>
+    <div class="project-feedback-text">
+      {{#if isInstructor}}
+        Good start.
+      {{else}}
+        Sweet action!
+      {{/if}}
+    </div>
+  </div>
+
+  <div class="project-feedback-item">
+    <div class="project-feedback-time">
+      {{#if isInstructor}}
+        5:22
+      {{else}}
+        6:00
+      {{/if}}
+    </div>
+    <div class="project-feedback-text">
+      {{#if isInstructor}}
+        Isn't it "potayto," not "potahto?"
+      {{else}}
+        I'm pretty sure it's "tomahto," not "tomayto."
+      {{/if}}
+    </div>
+  </div>
+
+  <div class="project-feedback-item">
+    <div class="project-feedback-time">
+      {{#if isInstructor}}
+        7:30
+      {{else}}
+        8:30
+      {{/if}}
+    </div>
+    <div class="project-feedback-text">
+      {{#if isInstructor}}
+        Previous comment redacted.
+      {{else}}
+        Yeah actually, it's definitely "tomahto."
+      {{/if}}
+    </div>
+  </div>
+
+  {{#if isInstructor}}
+  <div class="project-feedback-item">
+    <div class="project-feedback-time">
+      9:00
+    </div>
+    <div class="project-feedback-text">
+      Great points, but are you able to better define what succotash is?
+    </div>
+    {{mdi-icon "satellite-uplink"}}
+  </div>
+  {{/if}}
+
+  <div class="project-feedback-textarea">
+    <textarea class="project-feedback-textarea-field" placeholder="Type here..." cols={{feedbackTextAreaFieldWidth}}></textarea>
+
+    {{#if isInstructor}}
+      <div class="project-feedback-textarea-verbal">
+        {{mdi-icon "satellite-uplink"}}
+      </div>
+    {{/if}}
+
+    <button class="project-feedback-textarea-button">Send</button>
+  </div>
+</div>

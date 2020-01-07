@@ -1,0 +1,53 @@
+<div class="questions-container">
+  <h3 class="heading">Q &amp; A</h3>
+
+  <div class="questions {{unless isInstructor "student-questions-height-adj"}}">
+  {{#each questionsAndResponses as |item|}}
+    <div class="question-and-response-item">
+      <div class="question">
+        <span class="question-text">{{item.text}}</span>
+      </div>
+
+      {{#if item.response.response}}
+      <div class="response">
+        <div class="response-left">
+          <div class="response-upvote-icon">
+            {{mdi-icon "arrow-up-bold"}}
+
+            {{#if isInstructor}}
+              <span class="response-upvote-icon-text">
+                {{item.response.upvotes}}
+              </span>
+            {{/if}}
+          </div>
+        </div>
+
+        <div class="response-right">
+          {{#if isInstructor}}
+            {{mdi-icon "close" classNames="response-text-delete"}}
+          {{/if}}
+
+          <span class="response-text">
+            {{#if isInstructor}}
+              <strong>{{item.responder}}:</strong>
+            {{/if}}
+            {{item.response.response}}
+          </span>
+
+          <div class="response-emojis">
+            {{#each emojiCode as |item|}}
+              <span class="response-emoji">{{{item.icon}}}</span>
+            {{/each}}
+          </div>
+        </div>
+      </div>
+      {{/if}}
+
+      <div class="qa-textarea">
+        <textarea class="qa-textarea-field" placeholder="Type here..." cols={{qaTextAreaFieldWidth}}></textarea>
+        <button class="qa-textarea-button">Send</button>
+      </div>
+    </div>
+    {{/each}}
+  </div>
+</div>

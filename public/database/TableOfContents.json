@@ -1,0 +1,43 @@
+[
+  {
+    "database_name": "StudentPresenter",
+    "object_description": "A student presenter signs in with a google email. They can create presentations, write questions, and organize responses to the questions. Each presenter on a team can view their team's presentation data.",
+    "headers": ["id", "firstName", "lastName"]
+  }, {
+    "database_name": "Presentation",
+    "object_description": "A presentation is a collection of questions and responses (feedback) to those questions, for a particular team.",
+    "headers": ["id", "name", "url", "date"]
+  }, {
+    "database_name": "Question",
+    "object_description": "A question belongs to a specific presentation. It is written by a student presenter.",
+    "headers": ["id", "presentation", "student", "presenter", "id", "text", "date"]
+  }, {
+    "database_name": "StudentListener",
+    "object_description": "A student listener goes to the URL for a presentation and picks any temporary username they wish to use for that presentation. They can answer questions, vote on other listener's responses, or add emoji's to other listener's responses.",
+    "headers": ["id", "username", "presentation"]
+  }, {
+    "database_name": "Response",
+    "object_description": "A response is the feedback, given in answer to a question.",
+    "headers": ["id", "responder", "questions", "date", "response", "upvotes", "presentation"]
+  }, {
+    "database_name": "Vote",
+    "object_description": "Voting happens during the presentation. A vote is a +1 given by a particular listener to an individual response.",
+    "headers": ["id", "voter", "date", "response"]
+  }, {
+    "database_name": "Emoji",
+    "object_description": "Emoji's can be added during the presentation. An emoji icon can be added by a listener to an individual response.",
+    "headers": ["id", "voter", "date", "response", "emoji", "code"]
+  }, {
+    "database_name": "Tag",
+    "object_description": "Tags happen during the team's post mortem meeting. A tag is created by a student presenter to help organize the responses. For example, the presenter could tag several responses as \"important\" and then filter to only show those responses.",
+    "headers": ["id", "name", "presentation"]
+  }, {
+    "database_name": "Star",
+    "object_description": "Stars happen during the team's post mortem meeting. A star is a rating from 1 to 5 given by a student presenter to indicate the helpfulness of an individual response. For example, the presenter could give several comments 5 stars, then filter to only show those responses.",
+    "headers": ["id", "value", "response", "student", "presenter", "id", "presentation"]
+  }, {
+    "database_name": "EmojiCode",
+    "object_description": "Maps emoji codes to their respective icons.",
+    "headers": ["code", "icon"]
+  }
+]

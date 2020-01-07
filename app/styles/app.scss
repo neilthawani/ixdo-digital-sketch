@@ -1,0 +1,285 @@
+$darkPanel: gray; // #ccc;
+$lightPanel: lightgray; // #eee;
+$backgroundColor: #eee;
+$headingColor: #49c;
+$lightBlue: #4cabe6;
+$yellow: #fe8;
+
+@import "ember-mdi";
+@import "grid";
+@import "charts";
+@import "menu";
+@import "q_and_a";
+
+.container {
+    margin: 20px;
+    border: 1px solid black;
+    max-width: 95vw;
+    height: 94vh;
+}
+
+.container-header {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    background-color: $backgroundColor;
+}
+
+.container-header.student-warning-flash {
+    background-color: #ff4d4d;
+}
+
+.container-header.student-warning-flash + .menu-bar {
+    background-color: #ff4d4d;
+    padding: 0;
+
+    .student-warning-flash-empathy-msg {
+        font-family: Helvetica, sans-serif;
+        font-size: 12px;
+        margin-left: 20px;
+        margin-bottom: 10px;
+    }
+}
+
+.container-body {
+    padding: 0 20px;
+}
+
+.header-course {
+    color: black;
+    font-family: "Helvetica", sans-serif;
+    margin: 15px 0 0 20px;
+}
+
+.even-columns-3 .even-column:first-child:nth-last-child(1) {
+    max-width: 50%;
+}
+
+.even-columns-3 .even-column:first-child:nth-last-child(2) {
+    max-width: 50%;
+}
+
+.even-columns-3 .even-column:first-child:nth-last-child(3) {
+    max-width: 33%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.no-pane-display {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    height: 62vh;
+}
+
+.no-pane-message {
+    font-family: Helvetica, sans-serif;
+    font-size: 72px;
+}
+
+.no-pane-button {
+    margin: 20px auto;
+    display: block;
+    font-size: 48px;
+    border-radius: 0;
+    border: 1px solid black;
+    background-color: $headingColor;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    cursor: pointer;
+
+    &:hover {
+        background-color: $lightBlue;
+    }
+}
+
+.heading {
+    font-family: Helvetica, sans-serif;
+    font-size: 36px;
+    padding: 5px 0 5px 8px;
+    margin: 0;
+    background-color: $headingColor;
+    border-bottom: 1px solid black;
+    box-shadow: 1px 1px 2px black;
+    border-radius: 10px 20px 0 0;
+    color: #fff;
+    text-shadow: 1px 2px 1px black;
+}
+
+.presentations-container {
+    border: 1px solid black;
+    margin: 25px 0 20px 20px;
+    border-radius: 10px 20px;
+    background-color: #fff;
+}
+
+.presentations-container-long {
+    border: 1px solid black;
+    margin: 25px 0px 20px 20px;
+    border-radius: 10px 20px;
+    background-color: #fff;
+
+    .presentations {
+        overflow-y: scroll;
+        max-height: 64vh;
+    }
+}
+.presentations {
+    overflow-y: scroll;
+    max-height: 19vh;
+}
+
+.presentation {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 20px;
+    padding: 5px 10px;
+    background-color: $backgroundColor;
+    box-shadow: 1px 1px 2px black;
+    color: black;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+
+    &:visited {
+        text-decoration: none;
+    }
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+.presentation-text {
+    max-width: 85%;
+}
+
+.presentation-name {
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    color: black;
+
+    @extend .link;
+}
+
+.presentation-date {
+    font-family: Helvetica, sans-serif;
+    font-size: 10px;
+}
+
+.presentation-icons {
+    max-width: 25%;
+    text-align: right;
+    color: black;
+}
+
+.presentation-icon {
+    @extend .link;
+    font-size: 14px;
+
+    svg {
+        height: 24px;
+    }
+}
+
+.presentation-icon-open {
+    color: #d90;
+}
+
+.presentation-icon-view {
+    color: black;
+}
+
+.project-feedback-container {
+    margin: 20px 0;
+}
+
+.project-title {
+    a { @extend .link; }
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    margin: 0;
+    font-size: 36px;
+}
+
+.project-feedback {
+    border: 1px solid black;
+    height: 65vh;
+    margin-top: 5px;
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    background-color: $yellow;
+}
+
+.student-project-feedback-height-adj {
+    height: 71vh;
+}
+
+.project-feedback-item {
+    display: flex;
+    align-items: flex-start;
+    width: 98%;
+    border-bottom: 1px dotted black;
+    position: relative;
+
+    .mdi-icon {
+        // width: 16px;
+        position: absolute;
+        top: 5px;
+        right: 2px;
+        color: #f00;
+    }
+}
+
+.project-feedback-time {
+    font-size: 14px;
+    font-family: monospace;
+    font-weight: 400;
+    padding: 10px 40px 10px 20px;
+}
+
+.project-feedback-text {
+    padding: 10px 20px 10px 40px;
+    font-size: 16px;
+    font-family: "Helvetica", sans-serif;
+}
+
+.project-feedback-textarea {
+    width: 98%;
+    position: absolute;
+    bottom: -5px;
+}
+
+.project-feedback-textarea-field {
+    font-size: 18px;
+    overflow-y: scroll;
+    height: 24px;
+    // width: 80%;
+    margin-left: 0px;
+    border: 1px inset black;
+}
+
+.project-feedback-textarea-verbal {
+    position: absolute;
+    right: 58px;
+    bottom: 5px;
+    color: #f00;
+}
+
+.project-feedback-textarea-button {
+    font-size: 18px;
+    border-radius: 5px;
+    background-color: #ccc;
+    color: black;
+    position: absolute;
+    right: -5px;
+    bottom: 8px;
+}

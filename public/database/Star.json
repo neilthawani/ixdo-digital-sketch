@@ -1,0 +1,212 @@
+[
+ {
+   "id": 3,
+   "value": 1,
+   "response": 2300,
+   "student presenter id": 605,
+   "presentation": 79
+ },
+ {
+   "id": 4,
+   "value": 1,
+   "response": 2294,
+   "student presenter id": 605,
+   "presentation": 79
+ },
+ {
+   "id": 5,
+   "value": 5,
+   "response": 2300,
+   "student presenter id": 651,
+   "presentation": 79
+ },
+ {
+   "id": 6,
+   "value": 5,
+   "response": 2294,
+   "student presenter id": 651,
+   "presentation": 79
+ },
+ {
+   "id": 7,
+   "value": 3,
+   "response": 2297,
+   "student presenter id": 605,
+   "presentation": 79
+ },
+ {
+   "id": 8,
+   "value": 5,
+   "response": 2301,
+   "student presenter id": 605,
+   "presentation": 79
+ },
+ {
+   "id": 9,
+   "value": 2,
+   "response": 2297,
+   "student presenter id": 651,
+   "presentation": 79
+ },
+ {
+   "id": 10,
+   "value": 4,
+   "response": 2301,
+   "student presenter id": 651,
+   "presentation": 79
+ },
+ {
+   "id": 11,
+   "value": 1,
+   "response": 507,
+   "student presenter id": 605,
+   "presentation": 38
+ },
+ {
+   "id": 12,
+   "value": 2,
+   "response": 2260,
+   "student presenter id": 605,
+   "presentation": 38
+ },
+ {
+   "id": 13,
+   "value": 3,
+   "response": 465,
+   "student presenter id": 605,
+   "presentation": 38
+ },
+ {
+   "id": 14,
+   "value": 4,
+   "response": 466,
+   "student presenter id": 605,
+   "presentation": 38
+ },
+ {
+   "id": 15,
+   "value": 5,
+   "response": 467,
+   "student presenter id": 605,
+   "presentation": 38
+ },
+ {
+   "id": 16,
+   "value": 4,
+   "response": 468,
+   "student presenter id": 605,
+   "presentation": 38
+ },
+ {
+   "id": 17,
+   "value": 3,
+   "response": 469,
+   "student presenter id": 605,
+   "presentation": 38
+ },
+ {
+   "id": 18,
+   "value": 2,
+   "response": 502,
+   "student presenter id": 605,
+   "presentation": 38
+ },
+ {
+   "id": 19,
+   "value": 1,
+   "response": 503,
+   "student presenter id": 605,
+   "presentation": 38
+ },
+ {
+   "id": 20,
+   "value": 5,
+   "response": 514,
+   "student presenter id": 596,
+   "presentation": 39
+ },
+ {
+   "id": 21,
+   "value": 3,
+   "response": 511,
+   "student presenter id": 596,
+   "presentation": 39
+ },
+ {
+   "id": 22,
+   "value": 5,
+   "response": 512,
+   "student presenter id": 596,
+   "presentation": 39
+ },
+ {
+   "id": 23,
+   "value": 4,
+   "response": 514,
+   "student presenter id": 647,
+   "presentation": 39
+ },
+ {
+   "id": 24,
+   "value": 3,
+   "response": 511,
+   "student presenter id": 647,
+   "presentation": 39
+ },
+ {
+   "id": 25,
+   "value": 2,
+   "response": 512,
+   "student presenter id": 647,
+   "presentation": 39
+ },
+ {
+   "id": 26,
+   "value": 4,
+   "response": 513,
+   "student presenter id": 647,
+   "presentation": 39
+ },
+ {
+   "id": 27,
+   "value": 1,
+   "response": 515,
+   "student presenter id": 647,
+   "presentation": 39
+ },
+ {
+   "id": 28,
+   "value": 3,
+   "response": 516,
+   "student presenter id": 647,
+   "presentation": 39
+ },
+ {
+   "id": 29,
+   "value": 3,
+   "response": 517,
+   "student presenter id": 647,
+   "presentation": 39
+ },
+ {
+   "id": 30,
+   "value": 1,
+   "response": 518,
+   "student presenter id": 647,
+   "presentation": 39
+ },
+ {
+   "id": 31,
+   "value": 3,
+   "response": 2306,
+   "student presenter id": 647,
+   "presentation": 81
+ },
+ {
+   "id": 32,
+   "value": 2,
+   "response": 2308,
+   "student presenter id": 647,
+   "presentation": 81
+ }
+]
