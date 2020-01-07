@@ -12,10 +12,10 @@ I applied principles of UX Design to create a dashboard that served the needs of
 
 Here is a demo for the course instructor view:
 
-![instructor](instructor.gif)
+![instructor](readme-files/instructor.gif)
 
 And here is a demo for the student listener view:
 
-![listener](listener.gif)
+![listener](readme-files/listener.gif)
 
-You can read more about my design and development process in the [Process Book](process-book.pdf).
+You can read more about my design and development process in the [Process Book](readme-files/process-book.pdf).
