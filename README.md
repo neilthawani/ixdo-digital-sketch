@@ -10,6 +10,7 @@ I was given a database with data to feed into the digital dashboard and user per
 
 I applied principles of UX Design to create a dashboard that served the needs of student listeners and the course instructor while remaining functional and aesthetically pleasing.
 
+# Demos
 Here is a demo for the course instructor view:
 
 ![instructor](readme-files/instructor.gif)
@@ -17,5 +18,7 @@ Here is a demo for the course instructor view:
 And here is a demo for the student listener view:
 
 ![listener](readme-files/listener.gif)
+
+# Further Reading
 
 You can read more about my design and development process in the [Process Book](readme-files/process-book.pdf).
